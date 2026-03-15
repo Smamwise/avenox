@@ -16,21 +16,21 @@ jobs:
 
       - name: Convert Obsidian links
         run: |
-          python3 << 'EOF'
+          cat << 'EOF' > convert_links.py
           import os
           import re
 
           EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store', '_includes', '_layouts', '_config.yml'}
 
           def build_file_index(root='.'):
-              index = {}convert-obsidian-links.yml
+              index = {}
               for dirpath, dirnames, filenames in os.walk(root):
                   dirnames[:] = [d for d in dirnames if d not in EXCLUDE]
                   for f in filenames:
                       if f.endswith('.md'):
                           rel = os.path.relpath(dirpath, root)
                           path = f if rel == '.' else f"{rel}/{f}"
-                          name = f[:-3]  # strip .md
+                          name = f[:-3]
                           index[name] = path
               return index
 
@@ -68,6 +68,7 @@ jobs:
                           fh.write(updated)
                       print(f"Updated links in {path}")
           EOF
+          python3 convert_links.py
 
       - name: Commit and push if changed
         run: |
