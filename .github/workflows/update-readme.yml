@@ -75,7 +75,7 @@ jobs:
                   lines.append(f"- 📄 [{name}]({path})")
               sections.append('\n'.join(lines))
           
-          new_section = "## 📂 File Index\n\n" + '\n\n'.join(sections) + '\n'
+          new_section = '\n\n'.join(sections) + '\n'
 
           with open('README.md', 'r') as fh:
               content = fh.read()
