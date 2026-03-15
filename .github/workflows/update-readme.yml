@@ -1,0 +1,79 @@
+name: Update README with file list
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate file list and update README
+        run: |
+          python3 << 'EOF'
+          import os
+
+          # Files/dirs to exclude
+          EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store'}
+
+          def get_files(root='.'):
+              lines = []
+              for dirpath, dirnames, filenames in os.walk(root):
+                  # Filter excluded dirs in-place
+                  dirnames[:] = sorted(d for d in dirnames if d not in EXCLUDE)
+                  filenames = sorted(f for f in filenames if f not in EXCLUDE)
+
+                  rel = os.path.relpath(dirpath, root)
+                  depth = 0 if rel == '.' else rel.count(os.sep) + 1
+                  indent = '  ' * depth
+
+                  if rel != '.':
+                      folder = os.path.basename(dirpath)
+                      lines.append(f"{indent}- 📁 **{folder}/**")
+                      indent = '  ' * (depth + 1)
+
+                  for f in filenames:
+                      if rel == '.':
+                          path = f
+                      else:
+                          path = f"{rel}/{f}"
+                      lines.append(f"{indent}- 📄 [{f}]({path})")
+              return '\n'.join(lines)
+
+          file_list = get_files()
+          new_section = f"## 📂 File Index\n\n{file_list}\n"
+
+          with open('README.md', 'r') as fh:
+              content = fh.read()
+
+          START = '<!-- FILE-INDEX-START -->'
+          END   = '<!-- FILE-INDEX-END -->'
+
+          if START in content and END in content:
+              before = content[:content.index(START)]
+              after  = content[content.index(END) + len(END):]
+              new_content = f"{before}{START}\n{new_section}{END}{after}"
+          else:
+              new_content = content + f"\n{START}\n{new_section}{END}\n"
+
+          with open('README.md', 'w') as fh:
+              fh.write(new_content)
+
+          print("README.md updated successfully.")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" || (
+            git add README.md &&
+            git commit -m "chore: update file index in README" &&
+            git push
+          )
