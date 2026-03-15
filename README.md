@@ -3,12 +3,12 @@ Sääntöjä, lorea, yms.
 
 <!-- FILE-INDEX-START -->
 ### Journal
+- 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
 - 📄 [Journal template.md](AVE NOX/Journals/Journal template.md)
 
 ### Lore
 - 📄 [Gods and religions.md](AVE NOX/Gods and religions.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
-- 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
 
 ### Rules
 - 📄 [Additional rules notes.md](AVE NOX/Additional rules notes.md)
