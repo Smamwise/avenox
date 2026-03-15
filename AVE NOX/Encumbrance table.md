@@ -3,7 +3,6 @@ tags:
   - rules
 ---
 
-
 | **Adventuring Gear Item**    | **Cost (gp)** | **Encumbrance** |
 | ---------------------------- | ------------- | --------------- |
 | Backpack                     | 5             | 1 (storage)     |
@@ -70,6 +69,7 @@ tags:
 | Whistle*                     | 1             | 0 (tiny)        |
 | Wine (2 pints)               | 1             | 1               |
 | Wolfsbane (1 bunch)          | 10            | 1               |
+
 **Bundle:** Lists the item weight of the number of individual items in the bundle when bought (e.g. 7 rations = 3 items). 
 **Storage:** Only counts as an item when not in use. The referee must judge how much can be stored in a container. 
 **Tiny:** Not encumbering unless carried in large numbers.

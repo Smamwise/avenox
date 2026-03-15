@@ -25,7 +25,7 @@ The amount of XP a PC needs to advance from the start of their current level to 
 | NPC         | Interact beneficially with an important NPC when stakes are at play. |
 | Faction     | Manipulate or cripple a faction to your benefit.                     |
 | Quest       | Complete a quest.                                                    |
-^c8f8f5
+
 # The Procedure
 1. At the beginning of every session, note the number of players attending, the names of the PCs, and their current level in the fields provided.
 2. Calculate the Total XP Needed (TXP) for each PC currently playing in the session. TXP is the amount of XP needed to advance from the start of the current level to the next level.
