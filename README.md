@@ -18,8 +18,6 @@ Sääntöjä, lorea, yms.
     - 📄 [Languages.md](AVE NOX/Languages.md)
     - 📄 [Retainers.md](AVE NOX/Retainers.md)
     - 📄 [Skills.md](AVE NOX/Skills.md)
-    - 📄 [xx. lore.base](AVE NOX/xx. lore.base)
-    - 📄 [xx. rules.base](AVE NOX/xx. rules.base)
     - 📁 **Journals/**
       - 📄 [1. Template.md](AVE NOX/Journals/1. Template.md)
 <!-- FILE-INDEX-END -->
