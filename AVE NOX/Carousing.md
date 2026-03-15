@@ -14,6 +14,4 @@ If you spend more money than you have, you end up in debt to someone you’d rat
 | City        | d12 x 100 GP |
 | Wild Cities | d20 x 100 GP |
 
-_Membership in an exclusive society or club increases the multiplier to x200, but only counts in that specific area or cultural group._
-† represents Drinking Buddies. Only one group can be benefited from per Carousing session.
 [[Carousing table]] - DM only
