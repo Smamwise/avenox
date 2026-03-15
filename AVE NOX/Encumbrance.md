@@ -29,5 +29,6 @@ Movement rate is determined by the number of items carried, shown in the Item-Ba
 | 4–5          | 11–12        | 90’ (30’)  | Lightly Encumbered  | 1d8       |
 | 6–7          | 13–14        | 60’ (20’)  | Heavily Encumbered  | 1d6       |
 | 8–9          | 15–16        | 30’ (10’)  | Severely Encumbered | 1d4       |
+
 **Maximum load:** A character carrying more than 9 equipped items or more than 16 packed items cannot move.
 **STR Modifier:**  Character’s melee STR modifier is applied to the number of packed items at each movement rate band. e.g. a character with STR 16 (+2 modifier) can carry up to 12 packed items at 120’ (40’).
