@@ -21,13 +21,14 @@ jobs:
 
           # Files/dirs to exclude
           EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store','README.md'}
-
+          EXCLUDE_EXT = {'.base'}
+          
           def get_files(root='.'):
               lines = []
               for dirpath, dirnames, filenames in os.walk(root):
                   # Filter excluded dirs in-place
                   dirnames[:] = sorted(d for d in dirnames if d not in EXCLUDE)
-                  filenames = sorted(f for f in filenames if f not in EXCLUDE)
+                  filenames = sorted(f for f in filenames if f not in EXCLUDE and not any(f.endswith(ext) for ext in EXCLUDE_EXT))
 
                   rel = os.path.relpath(dirpath, root)
                   depth = 0 if rel == '.' else rel.count(os.sep) + 1
