@@ -3,8 +3,8 @@ tags:
   - journal
 ---
 # Entry number
-Real world date 1.1.2026
-Game date if it matters
+Real world date 1.4.2026
+Game date
 
 Players and PC:s
 - Player 1 - PC 1
@@ -16,6 +16,7 @@ Players and PC:s
 - this
 - that
 - something or other
+
 ## Experience & Feats
 ### Experience
 - Treasure:

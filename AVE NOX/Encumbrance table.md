@@ -2,6 +2,7 @@
 tags:
   - rules
 ---
+# Encumbrance table
 
 | **Adventuring Gear Item**    | **Cost (gp)** | **Encumbrance** |
 | ---------------------------- | ------------- | --------------- |

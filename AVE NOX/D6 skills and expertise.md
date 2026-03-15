@@ -2,6 +2,7 @@
 tags:
   - rules
 ---
+# Expertise and D6 skills
 Expertise pointit level 1 hahmoille ja level upeista. Voi allokoida skilleihin. Skillit D6.
 
 Kaikille 1. tason ja max tason skilleille

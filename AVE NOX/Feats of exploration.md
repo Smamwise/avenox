@@ -2,6 +2,7 @@
 tags:
   - rules
 ---
+# Feats of exploration
 XP awards based on exploration.
 # Total XP Needed (TXP)
 The amount of XP a PC needs to advance from the start of their current level to the next level. For example, referring to the 2e FIghter Level Progression Table, a 3rd level Fighter always has a TXP of 4000, regardless of their XP total. In the case of multiclassed characters, this uses only the TXP for their most expensive class (The class that requires the most experience points).
