@@ -2,7 +2,6 @@
 Sääntöjä, lorea, yms.
 
 <!-- FILE-INDEX-START -->
-- 📄 [_config.yml](_config.yml)
   - 📁 **AVE NOX/**
     - 📄 [Additional rules notes.md](AVE NOX/Additional rules notes.md)
     - 📄 [Carousing.md](AVE NOX/Carousing.md)
