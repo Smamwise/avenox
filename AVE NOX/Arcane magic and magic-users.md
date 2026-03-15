@@ -1,3 +1,7 @@
+---
+tags:
+  - rules
+---
 # Arcane magic and magic-users
 
 ## Advanced Spell Book Rules

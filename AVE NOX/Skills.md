@@ -4,7 +4,7 @@ tags:
 ---
 # Skills
 
-[Expertise and D6 skills](/avenox/AVE%20NOX/Expertise%20and%20D6%20skills.html)
+[[Expertise and D6 skills]]
 # Referee rolls
 
 Player rolls, referee checks if succceeds from a list of pre rolled dice numbers. For example, PC has HN 3-in-6. Player rolls a 5. Referee checks the first 3 numbers in list, marks them out and if the players 5 is in those 5 numbers the PC succeeds.
@@ -14,9 +14,9 @@ Player rolls, referee checks if succceeds from a list of pre rolled dice numbers
 - **Move silently (MS):** A thief may attempt to sneak past enemies unnoticed. 
 - **Hide in undergrowth (HD):** Requires the barbarian to be motionless—attacking or moving while hiding is not possible.
 - **Listen at door:** Detect subtle sounds beyond a door. One chance: This attempt may only be made one time at any door by a character.
-- **Find room trap:** Adventurers may choose to search a 10’ × 10’ area for room traps. See #Searching. Chance of finding: If a character is searching in the right location, there is a 1-in-6 chance of finding a room trap.
-- **Find treasure trap:** Characters with the ability to find treasure traps (as noted in their class description) may choose to search items (e.g. chests, locks) for traps.  See #Searching. Chance of finding: The chance of finding treasure traps, if a character is searching in the right location, is noted in the character’s class description.
-- **Find secret door:** Some doors are hidden or concealed. Adventurers may choose to search a 10’ × 10’ area for secret doors. See #Searching. Chance of finding: If a character is searching in the right location, there is a 1-in-6 chance of finding a secret door.
+- **Find room trap:** Adventurers may choose to search a 10’ × 10’ area for room traps. See [[#Searching]]. Chance of finding: If a character is searching in the right location, there is a 1-in-6 chance of finding a room trap.
+- **Find treasure trap:** Characters with the ability to find treasure traps (as noted in their class description) may choose to search items (e.g. chests, locks) for traps.  See [[#Searching]]. Chance of finding: The chance of finding treasure traps, if a character is searching in the right location, is noted in the character’s class description.
+- **Find secret door:** Some doors are hidden or concealed. Adventurers may choose to search a 10’ × 10’ area for secret doors. See [[#Searching]]. Chance of finding: If a character is searching in the right location, there is a 1-in-6 chance of finding a secret door.
 - **Find or remove treasure traps (TR):** A roll is required to find a treasure trap and then another to remove it. This may be attempted only once per trap. 
 
 # Player rolls
