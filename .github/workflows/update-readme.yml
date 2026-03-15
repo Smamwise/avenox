@@ -18,37 +18,64 @@ jobs:
         run: |
           python3 << 'EOF'
           import os
+          import yaml
 
-          # Files/dirs to exclude
           EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store','README.md','1. Rules.md','2. Lore.md','_includes'}
           EXCLUDE_EXT = {'.base','.yml'}
           
-          def get_files(root='.'):
-              lines = []
+          def get_front_matter(filepath):
+              try:
+                  with open(filepath, 'r') as f:
+                      content = f.read()
+                  if content.startswith('---'):
+                      end = content.index('---', 3)
+                      return yaml.safe_load(content[3:end])
+              except:
+                  pass
+              return {}
+          
+          def get_files_by_tag(root='.'):
+              tagged = {}   # tag -> list of (name, path)
+              untagged = []
+          
               for dirpath, dirnames, filenames in os.walk(root):
-                  # Filter excluded dirs in-place
                   dirnames[:] = sorted(d for d in dirnames if d not in EXCLUDE)
-                  filenames = sorted(f for f in filenames if f not in EXCLUDE and not any(f.endswith(ext) for ext in EXCLUDE_EXT))
-
-                  rel = os.path.relpath(dirpath, root)
-                  depth = 0 if rel == '.' else rel.count(os.sep) + 1
-                  indent = '  ' * depth
-
-                  if rel != '.':
-                      folder = os.path.basename(dirpath)
-                      lines.append(f"{indent}- 📁 **{folder}/**")
-                      indent = '  ' * (depth + 1)
-
+                  filenames = sorted(f for f in filenames
+                                    if f not in EXCLUDE
+                                    and not any(f.endswith(ext) for ext in EXCLUDE_EXT))
+          
                   for f in filenames:
-                      if rel == '.':
-                          path = f
+                      if not f.endswith('.md'):
+                          continue
+                      rel = os.path.relpath(dirpath, root)
+                      path = f if rel == '.' else f"{rel}/{f}"
+                      fm = get_front_matter(path)
+                      tags = fm.get('tags', []) if fm else []
+          
+                      if tags:
+                          for tag in tags:
+                              tagged.setdefault(tag, []).append((f, path))
                       else:
-                          path = f"{rel}/{f}"
-                      lines.append(f"{indent}- 📄 [{f}]({path})")
-              return '\n'.join(lines)
-
-          file_list = get_files()
-          new_section = f"{file_list}\n"
+                          untagged.append((f, path))
+          
+              return tagged, untagged
+          
+          tagged, untagged = get_files_by_tag()
+          
+          sections = []
+          for tag in sorted(tagged.keys()):
+              lines = [f"### {tag.capitalize()}"]
+              for name, path in tagged[tag]:
+                  lines.append(f"- 📄 [{name}]({path})")
+              sections.append('\n'.join(lines))
+          
+          if untagged:
+              lines = ["### Other"]
+              for name, path in untagged:
+                  lines.append(f"- 📄 [{name}]({path})")
+              sections.append('\n'.join(lines))
+          
+          new_section = "## 📂 File Index\n\n" + '\n\n'.join(sections) + '\n'
 
           with open('README.md', 'r') as fh:
               content = fh.read()
