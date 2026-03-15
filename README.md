@@ -8,9 +8,11 @@ Sääntöjä, lorea, yms.
 ### Lore
 - 📄 [Gods and religions.md](AVE NOX/Gods and religions.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
+- 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
 
 ### Rules
 - 📄 [Additional rules notes.md](AVE NOX/Additional rules notes.md)
+- 📄 [Additional rules.md](AVE NOX/Additional rules.md)
 - 📄 [Carousing.md](AVE NOX/Carousing.md)
 - 📄 [Classes.md](AVE NOX/Classes.md)
 - 📄 [Combat.md](AVE NOX/Combat.md)
