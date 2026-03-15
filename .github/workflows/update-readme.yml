@@ -20,7 +20,7 @@ jobs:
           import os
 
           # Files/dirs to exclude
-          EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store','README.md','1. Rules.md','2. Lore.md'}
+          EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store','README.md','1. Rules.md','2. Lore.md','_includes'}
           EXCLUDE_EXT = {'.base','.yml'}
           
           def get_files(root='.'):
