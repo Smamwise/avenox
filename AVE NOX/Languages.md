@@ -3,9 +3,14 @@ tags:
   - rules
   - lore
 ---
-# The Common Tongue
+# Languages
+
+## The Common Tongue
+
 The common tongue (sometimes simply called Common) is a language which is widespread among intelligent species. All player character races—as well as many monsters—are able to speak Common. In some settings, the referee may rule that different cultures in the campaign world have different languages, in which case a particular language must be chosen instead of Common.
+
 ## Languages
+
 1. Soldarion
 	Aateliston ja papiston kieli. Vain muinaisjäänne. Ei käytössä muuten kuin historiallisissa teksteissä.
 2. Darij

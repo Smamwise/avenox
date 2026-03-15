@@ -20,7 +20,7 @@ tags:
 	5. Melee attacks
 4. Other sides act In initiative order.
 
-# Dying
+## Dying
 
 When a character reaches 0 or 4+CON mod negative hit points they need to make a single save Vs. Death. More than -4-CON is death. 
 > example: 
@@ -31,11 +31,9 @@ When a character reaches 0 or 4+CON mod negative hit points they need to make a 
 **Unconcious PC** awakes in 1d6 turns with 1 hp, every roll is made with disadvantage until fully healed.
 **Dying PC** is able to act for a 1 round before dying. Only potent magic can heal them.
 
-# Advanced
+## Advanced
 
-## Movement
-
-### Outside of Melee
+### Movement outside of Melee
 
 Movement rate: Combatants can move up to their encounter movement rate each round.
 Maximum duration: Combatants may move at this rate for at most 60 rounds. In Melee When in melee with a foe, only the fol lowing forms of movement are possible:
@@ -49,6 +47,7 @@ Can't carry more than one shield at a time.
 Classes which can use a shield can splinter the shield to negate damage. Splinterin a shield destroys the shield.
 - Declare shield splinter before damage is rolled. 
 - Fighters can declare shield splintering after damage roll.
+- 
 ### Attacking with Two Weapons
 
 More attacks / greater chance to hit / greater damage

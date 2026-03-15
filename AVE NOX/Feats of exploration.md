@@ -5,10 +5,12 @@ tags:
 # Feats of exploration
 
 XP awards based on exploration.
-# Total XP Needed (TXP)
+
+## Total XP Needed (TXP)
 
 The amount of XP a PC needs to advance from the start of their current level to the next level. For example, referring to the 2e FIghter Level Progression Table, a 3rd level Fighter always has a TXP of 4000, regardless of their XP total. In the case of multiclassed characters, this uses only the TXP for their most expensive class (The class that requires the most experience points).
-# Award Values
+
+## Award Values
 
 - **Minor:** yields 2% of TXP per Feat. Minor awards are the most commonly achieved during a session, and represent the normal challenges faced during exploration.
 - **Major:** yields 5% of TXP per Feat. Major awards represent either less common challenges or more difficult versions of minor challenges, e.g. disarming a significantly complex trap or solving a puzzle with remarkable outside-the-box cleverness.
@@ -30,7 +32,7 @@ The amount of XP a PC needs to advance from the start of their current level to 
 | Faction     | Manipulate or cripple a faction to your benefit.                     |
 | Quest       | Complete a quest.                                                    |
 
-# The Procedure
+## The Procedure
 
 1. At the beginning of every session, note the number of players attending, the names of the PCs, and their current level in the fields provided.
 2. Calculate the Total XP Needed (TXP) for each PC currently playing in the session. TXP is the amount of XP needed to advance from the start of the current level to the next level.

@@ -19,7 +19,7 @@ CS lvl max 99% = $99*6/100=5$
 Summaa kaikkien skillien $SkillD6$ ja vähennä siitä skillien määrä. Näin saa aloitus expertise pointit.
 Level up pointit saa laskemalla summatut d6 käännetyt skillit ja vähentämällä max lvl skilleistä 1 level skilleistä, tämä jaetaan max level-1.
 
-# Thief skills
+## Thief skills
 
 | Skill                              | Level 1 | Level Max | D6 Converted level 1 | D6 Converted level max |
 | ---------------------------------- | ------- | --------- | -------------------- | ---------------------- |
@@ -45,7 +45,7 @@ $(5+5+5+5+5+5+5)$ $-$ $(5+0.6+2+0.6+1.2+0.9+1.2)$ $=$ $23.5$
 
 $\displaystyle \frac{35-11.5}{14 - 1} = 1.8 = 2$
 
-# Barbarian
+## Barbarian
 
 Skills 3
 Max level 14

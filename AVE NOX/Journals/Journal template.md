@@ -13,15 +13,20 @@ Players and PC:s
 - Player 4 - PC 4
 
 # What happened
+
 - this
 - that
 - something or other
 
 ## Experience & Feats
+
 ### Experience
+
 - Treasure:
 - Monsters:
+
 ### Feats
+
 - Party Total Experience:
 - Minor 2%:
 - Major 5%:
