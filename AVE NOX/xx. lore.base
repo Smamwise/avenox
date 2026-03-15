@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("AVE NOX")
+        - file.tags.contains("lore")
+    order:
+      - file.basename
+  - type: table
+    name: View
