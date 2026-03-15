@@ -9,7 +9,9 @@ Kaikille 1. tason ja max tason skilleille
 $SkillPrcnt*6/100 = Skill D6$
 
 Esim. 
+
 CS lvl 1 87% = $87*6/100=5$
+
 CS lvl max 99% = $99*6/100=5$
 
 Summaa kaikkien skillien $SkillD6$ ja vähennä siitä skillien määrä. Näin saa aloitus expertise pointit.
