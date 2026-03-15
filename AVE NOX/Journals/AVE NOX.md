@@ -16,4 +16,4 @@ tags:
 > 
 > Maanalaiset rauniot eivät ole jääneet ulkopuolisten korvien ulottumattomiin. Paikalle on sännännyt aarteenetsijöitä ja seikkailijoita etsimään tuota halkeamaa. Al Siirhajarin asukkaat yrittävät pitää sen visusti piilossa. Kuitenkin tutkimusmatkailijoiden määrän ja ulkopuolisten tuoman kaaoksen lisääntyessä Al Siirhajarin asukkaat ovat päättäneet sallia pääsyn muutamalle valikoidulle henkilölle.
 
-!Pasted image 20260315172855.png
+![alt text](<Pasted image 20260315172855.png>)
