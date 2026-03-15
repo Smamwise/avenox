@@ -1,3 +1,8 @@
+---
+tags:
+  - rules
+---
+
 
 | **Adventuring Gear Item**    | **Cost (gp)** | **Encumbrance** |
 | ---------------------------- | ------------- | --------------- |
