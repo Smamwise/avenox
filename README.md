@@ -23,7 +23,4 @@ Sääntöjä, lorea, yms.
 - 📄 [Retainers.md](AVE NOX/Retainers.md)
 - 📄 [Saves.md](AVE NOX/Saves.md)
 - 📄 [Skills.md](AVE NOX/Skills.md)
-
-### Other
-- 📄 [1. Template.md](AVE NOX/Journals/1. Template.md)
 <!-- FILE-INDEX-END -->
