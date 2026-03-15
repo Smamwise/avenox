@@ -19,14 +19,15 @@ Level up pointit saa laskemalla summatut d6 käännetyt skillit ja vähentämäl
 
 | Skill                              | Level 1 | Level Max | D6 Converted level 1 | D6 Converted level max |
 | ---------------------------------- | ------- | --------- | -------------------- | ---------------------- |
-| Climb sheer surfaces (CS)          | 87      | 99        | 87*6/100=5         | 99*6/100=5           |
-| Find or remove treasure traps (TR) | 10      | 99        | 10*6/100=0.6       | 99*6/100=5           |
+| Climb sheer surfaces (CS)          | 87      | 99        | 87*6/100=5           | 99*6/100=5             |
+| Find or remove treasure traps (TR) | 10      | 99        | 10*6/100=0.6         | 99*6/100=5             |
 | Hear noise (HN)                    | 2       | 5         | 2 (d6 skill)         | 5 (d6 skill)           |
-| Hide in shadows (HS)               | 10      | 99        | 10*6/100=0.6       | 99*6/100=5           |
-| Move silently (MS)                 | 20      | 99        | 20*6/100=1.2       | 99*6/100=5           |
-| Open locks (OL)                    | 15      | 99        | 15*6/100=0.9       | 99*6/100=5           |
-| Pick pockets (PP)                  | 20      | 125       | 20*6/100=1.2       | 99*6/100=5           |
+| Hide in shadows (HS)               | 10      | 99        | 10*6/100=0.6         | 99*6/100=5             |
+| Move silently (MS)                 | 20      | 99        | 20*6/100=1.2         | 99*6/100=5             |
+| Open locks (OL)                    | 15      | 99        | 15*6/100=0.9         | 99*6/100=5             |
+| Pick pockets (PP)                  | 20      | 125       | 20*6/100=1.2         | 99*6/100=5             |
 | **TOTAL**                          |         |           | **11.5**             | **35**                 |
+
 Skillien lukumäärä = 7
 Max level = 14
 
