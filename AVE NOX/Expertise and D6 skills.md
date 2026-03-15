@@ -3,6 +3,7 @@ tags:
   - rules
 ---
 # Expertise and D6 skills
+
 Expertise pointit level 1 hahmoille ja level upeista. Voi allokoida skilleihin. Skillit D6.
 
 Kaikille 1. tason ja max tason skilleille
@@ -45,6 +46,7 @@ $(5+5+5+5+5+5+5)$ $-$ $(5+0.6+2+0.6+1.2+0.9+1.2)$ $=$ $23.5$
 $\displaystyle \frac{35-11.5}{14 - 1} = 1.8 = 2$
 
 # Barbarian
+
 Skills 3
 Max level 14
 

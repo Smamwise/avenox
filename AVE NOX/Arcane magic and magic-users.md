@@ -1,0 +1,24 @@
+# Arcane magic and magic-users
+
+## Advanced Spell Book Rules
+
+**Number of Spells:** There is no limit to the number of spells in the character’s spell book.\
+**Beginning Spells:** Arcane spell casters begin play with a number of spells in their spell book determined by their INT score (see the table below). The referee may choose these spells or may allow the player to select.\
+**Adding Spells:** An arcane spell caster may attempt to add spells to their spell book at any time, as follows:\
+- **Mentoring:** The character may consult an arcane guild or mentor to learn new spells. This process takes about a week of game time. The  spells a character learns in this way are determined by the referee, who may decide to let the player choose.
+- **Copying:** Spells of a level which the character can cast may be copied from another source, for example scrolls or the spell books of another spell caster. The chance of success depends on the copying character’s INT score (see the table below). If the roll fails, the character can never learn the spell.
+- **Research:** It is also possible to add spells to a spell book by means of magical research (see p126). 
+
+**Spell Books and Learning Spells**
+
+|Beginning INT|Chance of Copying|Spells|
+|---|---|---|
+|3|20%|1|
+|4–5|30%|1|
+|6–7|35%|2|
+|8–9|40%|2|
+|10–12|50%|3|
+|13–14|70%|3|
+|15–16|75%|4|
+|17|85%|4|
+|18|90%|5|
