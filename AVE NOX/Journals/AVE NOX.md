@@ -1,8 +1,7 @@
 ---
 tags:
-  - lore
+  - journal
 ---
-
 # AVE NOX
 
 > Tervetuloa Aavemaille. Kuvankaunis, vehreä, kumpuileva ja raunioiden täplittämä maakaistale on kahden viikon matkan päässä mantereen läntisestä rannikkosta sisämaahan. Vehreän maiseman itäpuolella avautuu suuri autiomaa. 
@@ -16,3 +15,5 @@ tags:
 > Tutkijat, historioitsijat, arkeologit ja tieteilijät ovat kiinnostuneita alueen mystisestä menneisyydestä. Kartoittaessaan alueen historiaa he ovat aina tulleet johtopäätökseen, että alue on tyhjentynyt äkisti ilman selitystä. Syy sille miksi alue muuttui kultakautta nauttivasta feudalistisesta kaupunkivaltiosta lähes anarkistiseksi pieneksi yhteiskunnaksi ikään kuin yhdessä yössä on hämärän peitossa. Nyt tähän mysteeriin on mahdollisesti saatavissa selitys. Paikalliset metsästäjät löysivät pienen halkeaman läheltä Al Siirhajaria joka johtaa syvälle maan uumeniin jonkinlaisiin laajoihin ja mutkitteleviin raunioihin. Tämä paikka on sokea piste historiassa, siihen ei löydy viittauksia tai mainintoja. Paikalliset tutkijat ovat haltioituneet löydöstä ja siitä mitä rikkauksia maan uumeniin voi olla kätkettynä.
 > 
 > Maanalaiset rauniot eivät ole jääneet ulkopuolisten korvien ulottumattomiin. Paikalle on sännännyt aarteenetsijöitä ja seikkailijoita etsimään tuota halkeamaa. Al Siirhajarin asukkaat yrittävät pitää sen visusti piilossa. Kuitenkin tutkimusmatkailijoiden määrän ja ulkopuolisten tuoman kaaoksen lisääntyessä Al Siirhajarin asukkaat ovat päättäneet sallia pääsyn muutamalle valikoidulle henkilölle.
+
+![[Pasted image 20260315172855.png]]
