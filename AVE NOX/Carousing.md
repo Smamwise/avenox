@@ -14,4 +14,4 @@ If you spend more money than you have, you end up in debt to someone you’d rat
 | City        | d12 x 100 GP |
 | Wild Cities | d20 x 100 GP |
 
-Carousing table - DM only
+[[Carousing table]] - DM only

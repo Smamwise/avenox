@@ -19,6 +19,7 @@ Individual initiative: Roll 1d6+DEX mod.
 	4. Spell casting
 	5. Melee attacks
 4. Other sides act In initiative order.
+
 # Dying
 When a character reaches 0 or 4+CON mod negative hit points they need to make a single save Vs. Death. More than -4-CON is death. 
 > example: 
@@ -28,6 +29,7 @@ When a character reaches 0 or 4+CON mod negative hit points they need to make a 
 - Success: unconscious or dying
 **Unconcious PC** awakes in 1d6 turns with 1 hp, every roll is made with disadvantage until fully healed.
 **Dying PC** is able to act for a 1 round before dying. Only potent magic can heal them.
+
 # Advanced
 ### Shields
 Shields give +1 bonus to AC. 

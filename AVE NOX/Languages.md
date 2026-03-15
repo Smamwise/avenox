@@ -12,6 +12,7 @@ The common tongue (sometimes simply called Common) is a language which is widesp
 	Kauppakieli, ei kirjoitettua tekstiä.
 3. Zafaran
 	Yleisesti vain aavemaiden asukkaiden käyttämä kieli. Tätä ei usein ulkopuolisille opeteta.
+
 ## Intelligence and laguages
 
 |INT|Spoken Languages|Literacy|
