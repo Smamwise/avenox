@@ -1,0 +1,80 @@
+name: Convert Obsidian links to GitHub links
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  convert-links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Convert Obsidian links
+        run: |
+          python3 << 'EOF'
+          import os
+          import re
+
+          EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store', '_includes', '_layouts', '_config.yml'}
+
+          def build_file_index(root='.'):
+              index = {}convert-obsidian-links.yml
+              for dirpath, dirnames, filenames in os.walk(root):
+                  dirnames[:] = [d for d in dirnames if d not in EXCLUDE]
+                  for f in filenames:
+                      if f.endswith('.md'):
+                          rel = os.path.relpath(dirpath, root)
+                          path = f if rel == '.' else f"{rel}/{f}"
+                          name = f[:-3]  # strip .md
+                          index[name] = path
+              return index
+
+          def convert_obsidian_links(content, file_index):
+              def replace_link(match):
+                  inner = match.group(1)
+                  if '|' in inner:
+                      note, display = inner.split('|', 1)
+                  else:
+                      note = inner
+                      display = inner
+                  note = note.strip()
+                  display = display.strip()
+                  path = file_index.get(note)
+                  if path:
+                      return f"[{display}](<{path}>)"
+                  else:
+                      return display
+              return re.sub(r'\[\[([^\]]+)\]\]', replace_link, content)
+
+          file_index = build_file_index()
+
+          for dirpath, dirnames, filenames in os.walk('.'):
+              dirnames[:] = [d for d in dirnames if d not in EXCLUDE]
+              for f in filenames:
+                  if not f.endswith('.md'):
+                      continue
+                  rel = os.path.relpath(dirpath, '.')
+                  path = f if rel == '.' else f"{rel}/{f}"
+                  with open(path, 'r') as fh:
+                      content = fh.read()
+                  updated = convert_obsidian_links(content, file_index)
+                  if updated != content:
+                      with open(path, 'w') as fh:
+                          fh.write(updated)
+                      print(f"Updated links in {path}")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" || (
+            git add "*.md" &&
+            git commit -m "chore: convert Obsidian links to GitHub links" &&
+            git push
+          )
