@@ -32,3 +32,6 @@ Movement rate is determined by the number of items carried, shown in the Item-Ba
 
 **Maximum load:** A character carrying more than 9 equipped items or more than 16 packed items cannot move.
 **STR Modifier:**  Character’s melee STR modifier is applied to the number of packed items at each movement rate band. e.g. a character with STR 16 (+2 modifier) can carry up to 12 packed items at 120’ (40’).
+
+
+[Encumbrance table](AVE NOX/Encumbrance table.md)
