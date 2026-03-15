@@ -2,8 +2,6 @@
 Sääntöjä, lorea, yms.
 
 <!-- FILE-INDEX-START -->
-## 📂 File Index
-
 ### Lore
 - 📄 [Gods and religions.md](AVE NOX/Gods and religions.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
