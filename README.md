@@ -3,8 +3,6 @@ Sääntöjä, lorea, yms.
 
 <!-- FILE-INDEX-START -->
   - 📁 **AVE NOX/**
-    - 📄 [1. Rules.md](AVE NOX/1. Rules.md)
-    - 📄 [2. Lore.md](AVE NOX/2. Lore.md)
     - 📄 [Additional rules notes.md](AVE NOX/Additional rules notes.md)
     - 📄 [Carousing.md](AVE NOX/Carousing.md)
     - 📄 [Classes.md](AVE NOX/Classes.md)
