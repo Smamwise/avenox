@@ -3,7 +3,6 @@ test
 <!-- FILE-INDEX-START -->
 ## 📂 File Index
 
-- 📄 [README.md](README.md)
   - 📁 **AVE NOX/**
     - 📄 [1. Rules.md](AVE NOX/1. Rules.md)
     - 📄 [2. Lore.md](AVE NOX/2. Lore.md)
