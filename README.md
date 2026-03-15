@@ -19,4 +19,6 @@ Sääntöjä, lorea, yms.
     - 📄 [Skills.md](AVE NOX/Skills.md)
     - 📁 **Journals/**
       - 📄 [1. Template.md](AVE NOX/Journals/1. Template.md)
+  - 📁 **_includes/**
+    - 📄 [head-custom.html](_includes/head-custom.html)
 <!-- FILE-INDEX-END -->
