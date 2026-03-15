@@ -11,7 +11,6 @@ Sääntöjä, lorea, yms.
 - 📄 [Languages.md](AVE NOX/Languages.md)
 
 ### Rules
-- 📄 [Additional rules notes.md](AVE NOX/Additional rules notes.md)
 - 📄 [Additional rules.md](AVE NOX/Additional rules.md)
 - 📄 [Carousing.md](AVE NOX/Carousing.md)
 - 📄 [Classes.md](AVE NOX/Classes.md)
