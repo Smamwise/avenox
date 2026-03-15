@@ -46,7 +46,7 @@ jobs:
                   display = display.strip()
                   path = file_index.get(note)
                   if path:
-                      return f"[{display}](<{path}>)"
+                      return f"[{display}](</{path}>)"
                   else:
                       return display
               return re.sub(r'\[\[([^\]]+)\]\]', replace_link, content)
