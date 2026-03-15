@@ -35,22 +35,22 @@ jobs:
               return index
 
           def convert_obsidian_links(content, file_index):
-            def replace_link(match):
-                inner = match.group(1)
-                if '|' in inner:
-                    note, display = inner.split('|', 1)
-                else:
-                    note = inner
-                    display = inner
-                note = note.strip()
-                display = display.strip()
-                path = file_index.get(note)
-                if path:
-                    path = path.replace(' ', '%20')  # encode spaces
-                    path = path.replace('.md', '.html')  # github pages uses .html
-                    return f"[{display}](/avenox/{path})"
-                else:
-                    return display
+              def replace_link(match):
+                  inner = match.group(1)
+                  if '|' in inner:
+                      note, display = inner.split('|', 1)
+                  else:
+                      note = inner
+                      display = inner
+                  note = note.strip()
+                  display = display.strip()
+                  path = file_index.get(note)
+                  if path:
+                      path = path.replace(' ', '%20')  # encode spaces
+                      path = path.replace('.md', '.html')  # github pages uses .html
+                      return f"[{display}](/avenox/{path})"
+                  else:
+                      return display
               return re.sub(r'\[\[([^\]]+)\]\]', replace_link, content)
 
           file_index = build_file_index()
