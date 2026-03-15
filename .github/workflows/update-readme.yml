@@ -20,7 +20,7 @@ jobs:
           import os
 
           # Files/dirs to exclude
-          EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store'}
+          EXCLUDE = {'.git', '.github', 'node_modules', '__pycache__', '.DS_Store','README.md'}
 
           def get_files(root='.'):
               lines = []
