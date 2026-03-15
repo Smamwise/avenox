@@ -1,8 +1,9 @@
 name: Update README with file list
 
 on:
-  push:
-    branches: [main]
+  workflow_run:
+    workflows: ["Convert Obsidian links to GitHub links"]
+    types: [completed]
 
 jobs:
   update-readme:
