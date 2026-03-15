@@ -12,6 +12,7 @@ Sääntöjä, lorea, yms.
 
 ### Rules
 - 📄 [Additional rules.md](AVE NOX/Additional rules.md)
+- 📄 [Arcane magic and magic-users.md](AVE NOX/Arcane magic and magic-users.md)
 - 📄 [Carousing.md](AVE NOX/Carousing.md)
 - 📄 [Classes.md](AVE NOX/Classes.md)
 - 📄 [Combat.md](AVE NOX/Combat.md)
@@ -24,7 +25,4 @@ Sääntöjä, lorea, yms.
 - 📄 [Retainers.md](AVE NOX/Retainers.md)
 - 📄 [Saves.md](AVE NOX/Saves.md)
 - 📄 [Skills.md](AVE NOX/Skills.md)
-
-### Other
-- 📄 [Arcane magic and magic-users.md](AVE NOX/Arcane magic and magic-users.md)
 <!-- FILE-INDEX-END -->
