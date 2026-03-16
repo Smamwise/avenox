@@ -1,6 +1,13 @@
 # Ave Nox kampanjan wiki
 Sääntöjä, lorea, yms.
 
+<iframe 
+  src="https://mood.site/TGL2drUJ?edit=va3e2J8q" 
+  width="100%" 
+  height="600px" 
+  frameborder="0">
+</iframe>
+
 <!-- FILE-INDEX-START -->
 ### Journal
 - 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
