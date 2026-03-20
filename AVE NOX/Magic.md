@@ -7,6 +7,10 @@ tags:
 
 Far from being considered irrational, magic is the guiding principle by which people understand various natural phenomena and their positive and negative consequences. Magic, with the purpose to heal, is permissible and used by means of shielding against evil, sickness and adversities. The prohibition of magic lies in its alleged effect to cause harm, such as bestowing curses, summoning evil spirits, and causing illnesses.
 
+Taikuus ei ole harvinaista. Se kuitenkin kulkee eri nimillä eri kansojen ja ryhmien välillä. Uskovat kutsuvat sitä jumalan väliintuloksi, druidit luonnonvoimiksi, alkemistit ja okkultistit salatiedoksi. Oppineet velhot näkevät taikuuden osana universumin metafyysistä olemusta jota kanavoimalla voidaan saavuttaa muutoksia fyysiseen maailmaan.
+
+Joissakin piireissä taikuuden salaisuudet ja harjoitus eivät ole ihmisiä varten. Ja ne jotka taikuuden tuntevat ovat kauhistuksia, luopioita ja pahuuden riivaamia. Pohjoisen imperiumin mustan ruusun ritarikunnan tehtävä on vangita kaikki maagit, profeetat ja pyhimykset tai tämän ollessa mahdotonta, surmata heidät.
+
 ## Arcane magic and magic-users
 
 ### Advanced Spell Book Rules
