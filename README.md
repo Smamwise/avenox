@@ -18,6 +18,7 @@ Sääntöjä, lorea, yms.
 ### Lore
 - 📄 [Gods and religions.md](AVE NOX/Gods and religions.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
+- 📄 [Magic.md](AVE NOX/Magic.md)
 
 ### Rules
 - 📄 [Additional rules.md](AVE NOX/Additional rules.md)
@@ -30,6 +31,7 @@ Sääntöjä, lorea, yms.
 - 📄 [Expertise and D6 skills.md](AVE NOX/Expertise and D6 skills.md)
 - 📄 [Feats of exploration.md](AVE NOX/Feats of exploration.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
+- 📄 [Magic.md](AVE NOX/Magic.md)
 - 📄 [Retainers.md](AVE NOX/Retainers.md)
 - 📄 [Saves.md](AVE NOX/Saves.md)
 - 📄 [Skills.md](AVE NOX/Skills.md)
