@@ -16,6 +16,7 @@ Sääntöjä, lorea, yms.
 - 📄 [Journal template.md](AVE NOX/Journals/Journal template.md)
 
 ### Lore
+- 📄 [Currency.md](AVE NOX/Currency.md)
 - 📄 [Gods and religions.md](AVE NOX/Gods and religions.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
 - 📄 [Magic.md](AVE NOX/Magic.md)
