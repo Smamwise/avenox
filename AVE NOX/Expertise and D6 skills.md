@@ -66,10 +66,10 @@ Max level 14
 | cs    | 87     | 99  | 5       | 5      |
 | hd    | 10     | 60  | 0.6     | 3.6    |
 | ms    | 20     | 50  | 1.2     | 3      |
-| **TOTAL** | | | **6.8** | **11.6** |
+| **TOTAL** | | | **6.8** | **11.6** | 
 
 Lvl 1 d6 sum = 6.8
 level max d6 = 11.6
 
 Aloitus expertise pointit $6.8-3=3.8=4$
-Level up pointit = $\displaystyle \frac{11.6-6.8}{14-1}=0.369$ = 1 expertise point 3 levelin välein.|
+Level up pointit = $\displaystyle \frac{11.6-6.8}{14-1}=0.369$ = 1 expertise point 3 levelin välein.
