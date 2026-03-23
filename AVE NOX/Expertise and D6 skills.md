@@ -4,7 +4,16 @@ tags:
 ---
 # Expertise and D6 skills
 
-Expertise pointit level 1 hahmoille ja level upeista. Voi allokoida skilleihin. Skillit D6.
+**Base chance of success:** All skills begin with a 1-in-6 chance of success.\
+**Expertise points:** PCs gain expertise points to improve their chance of success with their skills. Each point allocated to a skill improves the chance of success by 1-in-6. Multiple points may be allocated to a skill, further increasing the chance of success. 
+
+For example, if 2 points are allocated to a skill, the chance of success is raised to 3-in-6 (from the base 1-in-6 chance of success).
+
+**At 1st level:** At character creation, a thief has 4 expertise points to allocate. A barbarian has 4 expertise points to allocate.\ 
+**Gaining levels:** A thief gains 2 additional expertise points to allocate. A barbarian has 1 additional expertise point to allocate every 3 levels. I.E. on levels 3, 6, 9, 12.\
+**Maximum chance of success:** No skill may be raised above 5-in-6.\
+
+## The matematiikka
 
 Kaikille 1. tason ja max tason skilleille
 
@@ -18,6 +27,7 @@ CS lvl max 99% = $99*6/100=5$
 
 Summaa kaikkien skillien $SkillD6$ ja vähennä siitä skillien määrä. Näin saa aloitus expertise pointit.
 Level up pointit saa laskemalla summatut d6 käännetyt skillit ja vähentämällä max lvl skilleistä 1 level skilleistä, tämä jaetaan max level-1.
+Max skilli on 5.
 
 ## Thief skills
 
@@ -30,20 +40,21 @@ Level up pointit saa laskemalla summatut d6 käännetyt skillit ja vähentämäl
 | Move silently (MS)                 | 20      | 99        | 20*6/100=1.2         | 99*6/100=5             |
 | Open locks (OL)                    | 15      | 99        | 15*6/100=0.9         | 99*6/100=5             |
 | Pick pockets (PP)                  | 20      | 125       | 20*6/100=1.2         | 99*6/100=5             |
-| **TOTAL**                          |         |           | **11.5**             | **35**                 |
+| Read Languages                     | 0       | 80        | 0*6/100=0            | 80*6/100=4.8           |
+| **TOTAL**                          |         |           | **11.5**             | **39.8**               |
 
-Skillien lukumäärä = 7
+Skillien lukumäärä = 8
 Max level = 14
 
 Level 1 expertise points = $Lvl1ConvD6-SkillCnt = 4$
  $5+0.6+2+0.6+1.2+0.9+1.2=11.5$  
-$11.5-7=4.5=4$
+$11.5-8=3.5=4$
 
 Level up expertise point gain = $\displaystyle \frac{LvlMaxConvD6-Lvl1ConvD6}{MaxLvl-1}=2$
 
-$(5+5+5+5+5+5+5)$ $-$ $(5+0.6+2+0.6+1.2+0.9+1.2)$ $=$ $23.5$
+$(5+5+5+5+5+5+5+4.8)$ $-$ $(5+0.6+2+0.6+1.2+0.9+1.2+0)$ $=$ $23.5$
 
-$\displaystyle \frac{35-11.5}{14 - 1} = 1.8 = 2$
+$\displaystyle \frac{39.8-11.5}{14 - 1} = 2.17 = 2$
 
 ## Barbarian
 
@@ -55,9 +66,10 @@ Max level 14
 | cs    | 87     | 99  | 5       | 5      |
 | hd    | 10     | 60  | 0.6     | 3.6    |
 | ms    | 20     | 50  | 1.2     | 3      |
+| **TOTAL** | | | **6.8** | **11.6** |
 
 Lvl 1 d6 sum = 6.8
 level max d6 = 11.6
 
 Aloitus expertise pointit $6.8-3=3.8=4$
-Level up pointit = $\displaystyle \frac{11.6-6.8}{14-1}=0.369$ = 1 expertise point 3 levelin välein.
+Level up pointit = $\displaystyle \frac{11.6-6.8}{14-1}=0.369$ = 1 expertise point 3 levelin välein.|
