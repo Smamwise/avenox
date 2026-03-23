@@ -5,13 +5,13 @@ tags:
 # Expertise and D6 skills
 
 **Base chance of success:** All skills begin with a 1-in-6 chance of success.\
-**Expertise points:** PCs gain expertise points to improve their chance of success with their skills. Each point allocated to a skill improves the chance of success by 1-in-6. Multiple points may be allocated to a skill, further increasing the chance of success. 
+**Expertise points:** PCs gain expertise points to improve their chance of success with their skills. Each point allocated to a skill improves the chance of success by 1-in-6. Multiple points may be allocated to a skill, further increasing the chance of success.
 
 For example, if 2 points are allocated to a skill, the chance of success is raised to 3-in-6 (from the base 1-in-6 chance of success).
 
-**At 1st level:** At character creation, a thief has 4 expertise points to allocate. A barbarian has 4 expertise points to allocate.\ 
+**At 1st level:** At character creation, a thief has 4 expertise points to allocate. A barbarian has 4 expertise points to allocate.\
 **Gaining levels:** A thief gains 2 additional expertise points to allocate. A barbarian has 1 additional expertise point to allocate every 3 levels. I.E. on levels 3, 6, 9, 12.\
-**Maximum chance of success:** No skill may be raised above 5-in-6.\
+**Maximum chance of success:** No skill may be raised above 5-in-6.
 
 ## The matematiikka
 
