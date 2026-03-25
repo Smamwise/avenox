@@ -61,15 +61,35 @@ $\displaystyle \frac{39.8-11.5}{14 - 1} = 2.17 = 2$
 Skills 3
 Max level 14
 
-| skill | level1 | max | lvl1 d6 | max d6 |
-| ----- | ------ | --- | ------- | ------ |
-| cs    | 87     | 99  | 5       | 5      |
-| hd    | 10     | 60  | 0.6     | 3.6    |
-| ms    | 20     | 50  | 1.2     | 3      |
-| **TOTAL** | | | **6.8** | **11.6** | 
+| skill     | level1 | level14 | lvl1 d6 | level14 d6   |
+| --------- | ------ | --- | ------- | -------- |
+| cs        | 87     | 99  | 5       | 5        |
+| hd        | 10     | 60  | 0.6     | 3.6      |
+| ms        | 20     | 50  | 1.2     | 3        |
+| **TOTAL** |        |     | **6.8** | **11.6** |
 
 Lvl 1 d6 sum = 6.8
-level max d6 = 11.6
+level14 d6 sum = 11.6
 
 Aloitus expertise pointit $6.8-3=3.8=4$
 Level up pointit = $\displaystyle \frac{11.6-6.8}{14-1}=0.369$ = 1 expertise point 3 levelin välein.
+
+## Mage
+
+Max lvl 14
+Skills 5
+
+| skill     | level1 | level14 | level1 d6 | level14 d6 |
+| --------- | ------ | ------- | --------- | ---------- |
+| dm        | 75     | 99      | 4.5       | 5          |
+| oc        | 30     | 95      | 1.8       | 5          |
+| rf        | 20     | 95      | 1.2       | 5          |
+| rm        | 50     | 99      | 3         | 5          |
+| su        | 20     | 95      | 1.2       | 5          |
+| **TOTAL** |        |         | **11.7**  | **25**     |
+
+lvl1 d6 sum 11.7
+lvl14 d6 sum 25
+
+Aloitus expertise pointit $11.7-5=6.7=7$
+Level up pointit = $\displaystyle \frac{25-11.7}{14-1}=1.023$ = 1 expertise point / level up.

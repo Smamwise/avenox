@@ -19,3 +19,4 @@ Available classes as humans
 - Beast Master (CC#3)
 - The Errant Friar (KNOCK#2)
 - Adjurer The Adventuring Exorcist (KNOCK#5)
+- Mage (CC#)
