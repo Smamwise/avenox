@@ -13,7 +13,7 @@ For example, if 2 points are allocated to a skill, the chance of success is rais
 **Gaining levels:** A thief gains 2 additional expertise points to allocate. A barbarian has 1 additional expertise point to allocate every 3 levels. I.E. on levels 3, 6, 9, 12.\
 **Maximum chance of success:** No skill may be raised above 5-in-6.
 
-## The matematiikka
+## Matematiikka
 
 Kaikille 1. tason ja max tason skilleille
 
@@ -29,7 +29,7 @@ Summaa kaikkien skillien $SkillD6$ ja vähennä siitä skillien määrä. Näin 
 Level up pointit saa laskemalla summatut d6 käännetyt skillit ja vähentämällä max lvl skilleistä 1 level skilleistä, tämä jaetaan max level-1.
 Max skilli on 5.
 
-## Thief skills
+## Thief
 
 Skillien lukumäärä = 8 \
 Max level = 14
