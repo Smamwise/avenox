@@ -13,7 +13,16 @@ Joissakin piireissä taikuuden salaisuudet ja harjoitus eivät ole ihmisiä vart
 
 ## Arcane magic and magic-users
 
-All Magic Users start with “Read Magic” spell.
+All Magic Users start with “Read Magic” spell. 
+Read magic is a cantrip.
+Cantrips, spell slots and levels
+
+| level | Spell slots |
+| ----- | ----------- |
+| 1     | 1           |
+| 2     | 2           |
+| 3     | 3           |
+| 4+    | 4           |
 
 ### Advanced Spell Book Rules
 
@@ -26,14 +35,14 @@ All Magic Users start with “Read Magic” spell.
 
 **Spell Books and Learning Spells**
 
-|Beginning INT|Chance of Copying|Spells|
-|---|---|---|
-|3|20%|1|
-|4–5|30%|1|
-|6–7|35%|2|
-|8–9|40%|2|
-|10–12|50%|3|
-|13–14|70%|3|
-|15–16|75%|4|
-|17|85%|4|
-|18|90%|5|
+| Beginning INT | Chance of Copying | Spells |
+| ------------- | ----------------- | ------ |
+| 3             | 20%               | 1      |
+| 4–5           | 30%               | 1      |
+| 6–7           | 35%               | 2      |
+| 8–9           | 40%               | 2      |
+| 10–12         | 50%               | 3      |
+| 13–14         | 70%               | 3      |
+| 15–16         | 75%               | 4      |
+| 17            | 85%               | 4      |
+| 18            | 90%               | 5      |

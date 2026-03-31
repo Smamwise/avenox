@@ -18,11 +18,15 @@ tags:
 	3. Missile attacks
 	4. Spell casting
 	5. Melee attacks
-4. Other sides act In initiative order.
+4. Other side acts
+### Movement in Melee
 
+When in melee with a foe, only the following forms of movement are possible:
+- **Fighting withdrawal:** The combatant moves backwards at up to half their encounter movement rate. There must be clear space behind the combatant.
+- **Retreat:** The combatant turns and flees from melee, moving up to their full encounter movement rate. _This round:_ the retreating combatant may not attack; the opponent gains a +2 bonus to all attacks against the retreating combatant and ignores any AC bonus due to the combatant’s shield.
 ## Dying
 
-When a character reaches 0 or 4+CON mod negative hit points they need to make a single save Vs. Death. More than -4-CON is death. 
+When a character reaches 0 to -level hit points they need to make a single save Vs. Death. More than -level hit points is death. 
 > example: 
 > CON score 3, mod -3. Reach -1 h it points is death. 
 > CON score 18, mod +3. Reach -7 hit points is death.
@@ -47,7 +51,7 @@ Can't carry more than one shield at a time.
 Classes which can use a shield can splinter the shield to negate damage. Splinterin a shield destroys the shield.
 - Declare shield splinter before damage is rolled. 
 - Fighters can declare shield splintering after damage roll.
-- 
+
 ### Attacking with Two Weapons
 
 More attacks / greater chance to hit / greater damage
