@@ -13,7 +13,7 @@ For example, if 2 points are allocated to a skill, the chance of success is rais
 **Gaining levels:** A thief gains 2 additional expertise points to allocate. A barbarian has 1 additional expertise point to allocate every 3 levels. I.E. on levels 3, 6, 9, 12.\
 **Maximum chance of success:** No skill may be raised above 5-in-6.
 
-## Matematiikka
+## The matematiikka
 
 Kaikille 1. tason ja max tason skilleille
 
@@ -29,10 +29,7 @@ Summaa kaikkien skillien $SkillD6$ ja vähennä siitä skillien määrä. Näin 
 Level up pointit saa laskemalla summatut d6 käännetyt skillit ja vähentämällä max lvl skilleistä 1 level skilleistä, tämä jaetaan max level-1.
 Max skilli on 5.
 
-## Thief
-
-Skillien lukumäärä = 8 \
-Max level = 14
+## Thief skills
 
 | Skill                              | Level 1 | Level Max | D6 Converted level 1 | D6 Converted level max |
 | ---------------------------------- | ------- | --------- | -------------------- | ---------------------- |
@@ -46,15 +43,22 @@ Max level = 14
 | Read Languages                     | 0       | 80        | 0*6/100=0            | 80*6/100=4.8           |
 | **TOTAL**                          |         |           | **11.5**             | **39.8**               |
 
-Lvl 1 d6 sum = 11.5 \
-level14 d6 sum = 39.8
+Skillien lukumäärä = 8
+Max level = 14
 
-Aloitus expertise pointit $11.5-8=3.5=4$ \
-Level up pointit = $\displaystyle \frac{39.8-11.5}{14-1}=2.17$ = 2 expertise point / level up.
+Level 1 expertise points = $Lvl1ConvD6-SkillCnt = 4$
+ $5+0.6+2+0.6+1.2+0.9+1.2=11.5$  
+$11.5-8=3.5=4$
+
+Level up expertise point gain = $\displaystyle \frac{LvlMaxConvD6-Lvl1ConvD6}{MaxLvl-1}=2$
+
+$(5+5+5+5+5+5+5+4.8)$ $-$ $(5+0.6+2+0.6+1.2+0.9+1.2+0)$ $=$ $23.5$
+
+$\displaystyle \frac{39.8-11.5}{14 - 1} = 2.17 = 2$
 
 ## Barbarian
 
-Skillien lukumäärä 3 \
+Skills 3
 Max level 14
 
 | skill     | level1 | level14 | lvl1 d6 | level14 d6   |
@@ -64,16 +68,16 @@ Max level 14
 | ms        | 20     | 50  | 1.2     | 3        |
 | **TOTAL** |        |     | **6.8** | **11.6** |
 
-Lvl 1 d6 sum = 6.8 \
+Lvl 1 d6 sum = 6.8
 level14 d6 sum = 11.6
 
-Aloitus expertise pointit $6.8-3=3.8=4$ \
+Aloitus expertise pointit $6.8-3=3.8=4$
 Level up pointit = $\displaystyle \frac{11.6-6.8}{14-1}=0.369$ = 1 expertise point 3 levelin välein.
 
 ## Mage
 
-Skillien lukumäärä 5 \
 Max lvl 14
+Skills 5
 
 | skill     | level1 | level14 | level1 d6 | level14 d6 |
 | --------- | ------ | ------- | --------- | ---------- |
@@ -84,8 +88,8 @@ Max lvl 14
 | su        | 20     | 95      | 1.2       | 5          |
 | **TOTAL** |        |         | **11.7**  | **25**     |
 
-lvl1 d6 sum 11.7 \
+lvl1 d6 sum 11.7
 lvl14 d6 sum 25
 
-Aloitus expertise pointit $11.7-5=6.7=7$ \
+Aloitus expertise pointit $11.7-5=6.7=7$
 Level up pointit = $\displaystyle \frac{25-11.7}{14-1}=1.023$ = 1 expertise point / level up.

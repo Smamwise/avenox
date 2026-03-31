@@ -13,14 +13,16 @@ Joissakin piireissä taikuuden salaisuudet ja harjoitus eivät ole ihmisiä vart
 
 ## Arcane magic and magic-users
 
+All Magic Users start with “Read Magic” spell.
+
 ### Advanced Spell Book Rules
 
 **Number of Spells:** There is no limit to the number of spells in the character’s spell book.\
 **Beginning Spells:** Arcane spell casters begin play with a number of spells in their spell book determined by their INT score (see the table below). The referee may choose these spells or may allow the player to select.\
-**Adding Spells:** An arcane spell caster may attempt to add spells to their spell book at any time, as follows:\
+**Adding Spells:** An arcane spell caster may attempt to add spells to their spell book at any time, as follows:
 - **Mentoring:** The character may consult an arcane guild or mentor to learn new spells. This process takes about a week of game time. The  spells a character learns in this way are determined by the referee, who may decide to let the player choose.
 - **Copying:** Spells of a level which the character can cast may be copied from another source, for example scrolls or the spell books of another spell caster. The chance of success depends on the copying character’s INT score (see the table below). If the roll fails, the character can never learn the spell.
-- **Research:** It is also possible to add spells to a spell book by means of magical research (see p126). 
+- **Research:** It is also possible to add spells to a spell book by means of magical research. The player should describe in detail the spell they wish to create and the effects it has. The referee will then decide if the spell can be created and, if so, what the spell level will be. _Restrictions:_ The character must be capable of casting spells of the level the new spell will be. _Cost and Time Researching:_ a new spell takes two weeks per spell level and 1,000gp per spell level.
 
 **Spell Books and Learning Spells**
 
@@ -35,4 +37,3 @@ Joissakin piireissä taikuuden salaisuudet ja harjoitus eivät ole ihmisiä vart
 |15–16|75%|4|
 |17|85%|4|
 |18|90%|5|
-
