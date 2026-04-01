@@ -8,15 +8,20 @@ Kaikki aloittaa ihmisinä, ja jos/kun tapaatte muiden rotujen edustajia, niiden 
 
 # Classes
 
-Available classes as humans
-- Barbarian
-- Bard
-- Cleric
-- Fighter
-- Paladin
-- Magic-User
-- Thief
-- Beast Master (CC#3)
-- The Errant Friar (KNOCK#2)
-- Adjurer The Adventuring Exorcist (KNOCK#5)
-- Mage (CC#)
+## Available classes as humans
+
+1. Barbarian
+2. Bard
+3. Cleric
+4. Fighter
+5. Paladin
+6. Magic-User
+7. Thief
+8. Beast Master (CC#3)
+9. The Errant Friar (KNOCK#2)
+10. Adjurer The Adventuring Exorcist (KNOCK#5)
+11. Mage (CC#)
+
+## Unlocked demi- or non-human classes
+
+None. Yet...

@@ -13,7 +13,8 @@ Players and PC:s
 - Player 4 - PC 4
 
 # What happened
-
+Purple lemons. Turns your lips purple and double their size for one day, but also makes you immune to acid.
+An unremarkable looking hand bell that shouts “DING DONG!” instead of ringing.
 - this
 - that
 - something or other

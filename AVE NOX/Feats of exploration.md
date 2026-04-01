@@ -40,4 +40,4 @@ The amount of XP a PC needs to advance from the start of their current level to 
     1. The party make-up changes. This most commonly occurs due to player absences, or at an open table where player attendance fluctuates wildly between sessions. Other reasons could be character death or the choice to play a different character during a particular session.
     2. A PC gains a level. Because that PC's TXP is now exponentially higher, the Party TXP likewise increases.
 4. Calculate the percentage values of the Party TXP for Minor (2%), Major (5%), Extraordinary (10%), and Campaign (15%), and input these values into the appropriate fields on the worksheet.
-5. Whena Feat is achieved, regardless of who achieved it, the entire party is awarded the predetermined percentage of TXP listed under that Feat. Divide that number by the number of players present during the session to arrive at the per-PC share.
+5. When a Feat is achieved, regardless of who achieved it, the entire party is awarded the predetermined percentage of TXP listed under that Feat. Divide that number by the number of players present during the session to arrive at the per-PC share.

@@ -26,14 +26,11 @@ When in melee with a foe, only the following forms of movement are possible:
 - **Retreat:** The combatant turns and flees from melee, moving up to their full encounter movement rate. _This round:_ the retreating combatant may not attack; the opponent gains a +2 bonus to all attacks against the retreating combatant and ignores any AC bonus due to the combatant’s shield.
 ## Dying
 
-When a character reaches 0 to -level hit points they need to make a single save Vs. Death. More than -level hit points is death. 
-> example: 
-> CON score 3, mod -3. Reach -1 h it points is death. 
-> CON score 18, mod +3. Reach -7 hit points is death.
+When a character reaches 0 or negative hit points (no more than their hit die, for fighters 8, clerics 6, thief 4…) they need to make a single save Vs. Death:
 - Fail: death
 - Success: unconscious or dying
-**Unconcious PC** awakes in 1d6 turns with 1 hp, every roll is made with disadvantage until fully healed.
-**Dying PC** is able to act for a 1 round before dying. Only potent magic can heal them.
+	- **Unconcious PC** awakes in 1d6 turns with 1 hp, every roll is made with disadvantage until fully healed.
+	- **Dying PC** is able to act for a 1 round before dying. Only potent magic can heal them.
 
 ## Advanced
 
