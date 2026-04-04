@@ -24,4 +24,6 @@ Kaikki aloittaa ihmisinä, ja jos/kun tapaatte muiden rotujen edustajia, niiden 
 
 ## Unlocked demi- or non-human classes
 
-None. Yet...
+1. Molefolk
+2. Lost droid (näitä ei saa luoda, mutta laitan että olette löytäneet)
+3. Dwarf

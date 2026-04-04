@@ -1,15 +1,19 @@
-# Entry number
+---
+tags:
+  - journal
+---
+# Journal 1
 
 Real world date 1.4.2026
 Day 1
 
 Players and PC:s
-- Tuula - ~~Blaine, cleric~~ Edwarf, kääpiö
-- Juhana - Saamarin Nuija, thief
-- Johanna - ~~ykä, beast master~~ Steelo, robotti
-- Tuukka - ~~Kornag fighter~~ Estrella, myyrähenkilö 
-- Timo - Veli Renard, errant friar
-- Ivar - Verso magic user
+- Tu1 - ~~Blaine, cleric~~ Edwarf, kääpiö
+- Ju - Saamarin Nuija, thief
+- Jo - ~~ykä, beast master~~ Steelo, robotti
+- Tu2 - ~~Kornag fighter~~ Estrella, myyrähenkilö 
+- Ti - Veli Renard, errant friar
+- I - Verso magic user
 
 # What happened
 - Maan alle kiipeäminen!
@@ -22,10 +26,7 @@ Players and PC:s
 - ==3 vurmolea juoksi karkuun==
 - Takahuoneesta löytyi lumikki ja seitsemän kääpiötä, yksi kääpiö hengissä
 - Takahuoneessa pyöreä iso kivinen ovi, tutkimista
-- Kääpiöiden ruumista Nuija löysi:
-	- Purple lemons. Turns your lips purple and double their size for one day, but also makes you immune to acid.
-	- An unremarkable looking hand bell that shouts “DING DONG!” instead of ringing.
-
+- Kääpiöiden ruumista Nuija löysi liiloja sitruunoita ja kilin kolin kellon.
 ## Experience & Feats
 
 ### Experience
