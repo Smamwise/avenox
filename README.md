@@ -13,6 +13,7 @@ Sääntöjä, lorea, yms.
 <!-- FILE-INDEX-START -->
 ### Journal
 - 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
+- 📄 [First Descent.md](AVE NOX/Journals/First Descent.md)
 - 📄 [Journal template.md](AVE NOX/Journals/Journal template.md)
 
 ### Lore
@@ -36,7 +37,4 @@ Sääntöjä, lorea, yms.
 - 📄 [Retainers.md](AVE NOX/Retainers.md)
 - 📄 [Saves.md](AVE NOX/Saves.md)
 - 📄 [Skills.md](AVE NOX/Skills.md)
-
-### Other
-- 📄 [First Descent.md](AVE NOX/Journals/First Descent.md)
 <!-- FILE-INDEX-END -->
