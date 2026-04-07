@@ -6,10 +6,6 @@ tags:
 
 ## Combat Sequence Per Round
 
->Decide between group or individual initiative.
->Group initiative: Roll a d6. On a 1-3 the enemies act first. On a 4-6 the PCs act first. 
->Individual initiative: Roll 1d6+DEX mod.
-
 1. Declare spells and melee movement
 2. Initiative
 3. Winning side acts: 
@@ -19,11 +15,7 @@ tags:
 	4. Spell casting
 	5. Melee attacks
 4. Other side acts
-### Movement in Melee
 
-When in melee with a foe, only the following forms of movement are possible:
-- **Fighting withdrawal:** The combatant moves backwards at up to half their encounter movement rate. There must be clear space behind the combatant.
-- **Retreat:** The combatant turns and flees from melee, moving up to their full encounter movement rate. _This round:_ the retreating combatant may not attack; the opponent gains a +2 bonus to all attacks against the retreating combatant and ignores any AC bonus due to the combatant’s shield.
 ## Dying
 
 When a character reaches 0 or negative hit points (no more than their hit die, for fighters 8, clerics 6, thief 4…) they need to make a single save Vs. Death:
@@ -32,14 +24,7 @@ When a character reaches 0 or negative hit points (no more than their hit die, f
 	- **Unconcious PC** awakes in 1d6 turns with 1 hp, every roll is made with disadvantage until fully healed.
 	- **Dying PC** is able to act for a 1 round before dying. Only potent magic can heal them.
 
-## Advanced
-
-### Movement outside of Melee
-
-Movement rate: Combatants can move up to their encounter movement rate each round.
-Maximum duration: Combatants may move at this rate for at most 60 rounds. In Melee When in melee with a foe, only the fol lowing forms of movement are possible:
-- **Fighting withdrawal:** The combatant moves backwards at up to half their encounter movement rate. There must be a clear path for this movement.
-- **Retreat:** The combatant turns and flees from melee, moving up to their full encounter movement rate. **This round:** the retreating combatant may not attack; the opponent gains a +2 bonus to all attacks against the retreating combatant and ignores any AC bonus due to the retreating combatant’s shield (if applicable).
+## Other combat issues
 
 ### Shields
 
@@ -49,22 +34,15 @@ Classes which can use a shield can splinter the shield to negate damage. Splinte
 - Declare shield splinter before damage is rolled. 
 - Fighters can declare shield splintering after damage roll.
 
+### Movement in Melee
+
+When in melee with a foe, only the following forms of movement are possible:
+- **Fighting withdrawal:** The combatant moves backwards at up to half their encounter movement rate. There must be clear space behind the combatant.
+- **Retreat:** The combatant turns and flees from melee, moving up to their full encounter movement rate. _This round:_ the retreating combatant may not attack; the opponent gains a +2 bonus to all attacks against the retreating combatant and ignores any AC bonus due to the combatant’s shield.
+
 ### Attacking with Two Weapons
 
-More attacks / greater chance to hit / greater damage
-
-```
-Characters with DEX or STR as a prime requisite may choose to wield two one-handed weapons, as follows:
- - The secondary weapon must be of small size (e.g. a dagger or hand axe).
- - Attacks with the primary weapon suffer a –2 penalty.
- - The character may make one extra attack per round with the secondary weapon, at a –4 attack penalty.
-
-Characters with DEX or STR as a prime requisite may choose to wield two one-handed weapons.
-Attacking with two weapons lets the attacker add +1 to their attack roll.
-
-Characters with DEX or STR as a prime requisite may choose to wield two one-handed weapons.
-Attacking with two weapons lets the attacker roll damage for both weapons and choose one.
-```
+Characters with DEX or STR as a prime requisite may choose to wield two one-handed weapons. Attacking with two weapons lets the attacker add +2 to their attack roll.
 
 ### Charging into Melee
 
@@ -73,3 +51,6 @@ Once per combat, a character may charge into melee and attack, as follows:
 - The character gains a +2 bonus to attack this round.
 - The character’s AC is penalised by 1 this round.
 - Weapons that may be braced against charging monsters are also effective against charging characters.
+
+### Parrying
+Characters with a STR of 13 or above may opt to act purely defensively in melee, forfeiting their attack that round. When parrying, the character’s STR bonus to melee attacks is applied as an Armour Class bonus that round.

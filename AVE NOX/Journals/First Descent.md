@@ -10,7 +10,7 @@ Day 1
 Players and PC:s
 - Tu1 - ~~Blaine, cleric~~ Edwarf, kääpiö
 - Ju - Saamarin Nuija, thief
-- Jo - ~~ykä, beast master~~ Steelo, robotti
+- Jo - ~~Ykä, beast master~~ Steelo, robotti
 - Tu2 - ~~Kornag fighter~~ Estrella, myyrähenkilö 
 - Ti - Veli Renard, errant friar
 - I - Verso magic user
