@@ -6,7 +6,7 @@ tags:
 
 ## Combat Sequence Per Round
 
-1. Declare spells and melee movement
+1. Declare spells, movement, parry
 2. Initiative
 3. Winning side acts: 
 	1. Monster and Hireling morale
@@ -42,7 +42,10 @@ When in melee with a foe, only the following forms of movement are possible:
 
 ### Attacking with Two Weapons
 
-Characters with DEX or STR as a prime requisite may choose to wield two one-handed weapons. Attacking with two weapons lets the attacker add +2 to their attack roll.
+Characters with DEX or STR as a prime requisite may choose to wield two one-handed weapons, as follows:
+- The secondary weapon must be of small size (e.g. a dagger or hand axe).
+- Attacks with the primary weapon suffer a –2 penalty.
+- The character may make one extra attack per round with the secondary weapon, at a –4 attack penalty.
 
 ### Charging into Melee
 
@@ -53,4 +56,4 @@ Once per combat, a character may charge into melee and attack, as follows:
 - Weapons that may be braced against charging monsters are also effective against charging characters.
 
 ### Parrying
-Characters with a STR of 13 or above may opt to act purely defensively in melee, forfeiting their attack that round. When parrying, the character’s STR bonus to melee attacks is applied as an Armour Class bonus that round.
+Character may opt to act purely defensively in melee, forfeiting their attack that round. When parrying, the character’s STR modifier bonus to melee attacks or +1 (whichever is higher) is applied as an Armour Class bonus that round.

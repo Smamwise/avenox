@@ -21,18 +21,17 @@ An unremarkable looking hand bell that shouts “DING DONG!” instead of ringin
 
 ## Experience & Feats
 
-### Experience
+| Experience |     |
+| ---------- | --- |
+| Treasure   |     |
+| Monsters   |     |
+| Feats      |     |
+| XP per PC  |     |
 
-- Treasure:
-- Monsters:
-
-### Feats
-
-- Party Total Experience:
-- Minor 2%:
-- Major 5%:
-- Extraordinary 10%:
-- Campaing 15%:
+| Party TXP | Minor  | Major  | Extraordinary | Campaing |
+| --------- | ------ | ------ | ------------- | -------- |
+|           |        |        |               |          |
+| **Feats** | **2%** | **5%** | **10%**       | **15%**  |
 
 | Feat        | Description | Experience |
 | ----------- | ----------- | ---------- |
