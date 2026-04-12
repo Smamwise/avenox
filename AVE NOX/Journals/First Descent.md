@@ -12,14 +12,18 @@ Players and PC:s
 - Ti - Veli Renard, errant friar
 - I - Verso, magic user
 
+# DM notes
+
+- XPn uudelleen laskenta pelaajien kanssa
+
 # What happened
  
 ## Experience & Feats
 
-- Treasure: 0
-- Monsters: 5 vurmolea 50
-- Feats: 444
-- XP per PC: 494 / 6 = 83
+- Treasure: 
+- Monsters: 
+- Feats: 
+- XP per PC: 
 
 | Party TXP | Minor  | Major  | Extraordinary | Campaing |
 | --------- | ------ | ------ | ------------- | -------- |
@@ -72,9 +76,9 @@ Players and PC:s
 ### Experience
 
 - Treasure: 0
-- Monsters: 5 vurmolea 50
-- Feats: 444
-- XP per PC: 494 / 6 = 83
+- Monsters: 5 vurmolea 750xp
+- Feats: 1000
+- XP per PC: 1750 / 6 = 300
 
 ### Feats
 
@@ -95,6 +99,6 @@ Players and PC:s
 | Hazards     |                         |            |
 | Skills      |                         |            |
 | Location    | Löysivät maan alle      | minor      |
-| NPC         |                         |            |
+| NPC         | Putkikauppias           | major      |
 | Faction     |                         |            |
 | Quest       |                         |            |

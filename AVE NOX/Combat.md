@@ -32,7 +32,7 @@ Shields give +1 bonus to AC.
 Can't carry more than one shield at a time.
 Classes which can use a shield can splinter the shield to negate damage. Splinterin a shield destroys the shield.
 - Declare shield splinter before damage is rolled. 
-- Fighters can declare shield splintering after damage roll.
+- Characters with DEX or STR as a prime requisite can declare shield splintering after damage roll.
 
 ### Movement in Melee
 
