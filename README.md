@@ -12,15 +12,17 @@ Sääntöjä, lorea, yms.
 
 <!-- FILE-INDEX-START -->
 ### Journal
+- 📄 [Palkkasoturit ja -seikkailijat.md](AVE NOX/Palkkasoturit ja -seikkailijat.md)
 - 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
-- 📄 [First Descent.md](AVE NOX/Journals/First Descent.md)
 - 📄 [Journal template.md](AVE NOX/Journals/Journal template.md)
+- 📄 [Retkipäiväkirja.md](AVE NOX/Journals/Retkipäiväkirja.md)
 
 ### Lore
 - 📄 [Currency.md](AVE NOX/Currency.md)
 - 📄 [Gods and religions.md](AVE NOX/Gods and religions.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
 - 📄 [Magic.md](AVE NOX/Magic.md)
+- 📄 [Palkkasoturit ja -seikkailijat.md](AVE NOX/Palkkasoturit ja -seikkailijat.md)
 
 ### Rules
 - 📄 [Additional rules.md](AVE NOX/Additional rules.md)
