@@ -14,7 +14,6 @@ Sääntöjä, lorea, yms.
 ### Journal
 - 📄 [Palkkasoturit ja -seikkailijat.md](AVE NOX/Palkkasoturit ja -seikkailijat.md)
 - 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
-- 📄 [Journal template.md](AVE NOX/Journals/Journal template.md)
 - 📄 [Retkipäiväkirja.md](AVE NOX/Journals/Retkipäiväkirja.md)
 
 ### Lore
