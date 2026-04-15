@@ -15,7 +15,8 @@ Applicants are recruited through negotiation, with the referee playing the roles
 ### Offering Wages
 
 Once an applicant has been located, the hiring PC must offer them a certain wage.  
-Wage usually consists of a daily rate (paid for a month in advance) and a share of treasure found.
+Wage usually consists of a daily rate (paid for a month in advance as is custom) and a share of treasure found.
+Even for a months wages, loyalty is still checked.
 
 ## Loyalty
 
