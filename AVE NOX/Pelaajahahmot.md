@@ -5,17 +5,17 @@ tags:
 
 # Pelaajahahmot
 
-**Veli Renard**
+**Veli Renard**, errant friar
 
-**Steelo**
+**Steelo**, lost droid
 
-**Estrella**
+**Estrella**, molefolk
 
-**Saamarin Nuija**
+**Saamarin Nuija**, thief
 
-**Verso**
+**Verso**, magic-user
 
-**Edwarf**
+**Edwarf**, dwarf
 
 ## In memoriam
 
