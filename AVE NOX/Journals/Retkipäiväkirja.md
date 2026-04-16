@@ -7,7 +7,7 @@ tags:
 # Kolmas retkipäiväkirjan merkintä
 
 IRL pvm. 29.4.2026
-Ensimmäinen päivä
+Toinen päivä
 
 Players and PC:s
 
