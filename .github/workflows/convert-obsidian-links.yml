@@ -51,21 +51,20 @@ jobs:
 
           def convert_obsidian_links(content, file_index, image_index, repo_name):
               def replace_image(match):
-                inner = match.group(1).strip()
-                if '|' in inner:
-                    filename, width = inner.split('|', 1)
-                    filename = filename.strip()
-                    width = width.strip()
-                else:
-                    filename = inner
-                    width = "200"  # default width
-                
-                path = image_index.get(filename)
-                if path:
-                    path = path.replace(' ', '%20')
-                    return f'<img src="https://github.com/Smamwise/{repo_name}/blob/main/{path}" width="{width}">'
-                else:
-                    return match.group(0)
+                  inner = match.group(1).strip()
+                  if '|' in inner:
+                      filename, width = inner.split('|', 1)
+                      filename = filename.strip()
+                      width = width.strip()
+                  else:
+                      filename = inner
+                      width = "200"
+                  path = image_index.get(filename)
+                  if path:
+                      path = path.replace(' ', '%20')
+                      return f'<img src="https://github.com/Smamwise/{repo_name}/blob/main/{path}" width="{width}">'
+                  else:
+                      return match.group(0)
                       
               def replace_link(match):
                   inner = match.group(1)
