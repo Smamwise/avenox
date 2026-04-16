@@ -13,6 +13,7 @@ Sääntöjä, lorea, yms.
 <!-- FILE-INDEX-START -->
 ### Journal
 - 📄 [Palkkasoturit ja -seikkailijat.md](AVE NOX/Palkkasoturit ja -seikkailijat.md)
+- 📄 [Pelaajahahmot.md](AVE NOX/Pelaajahahmot.md)
 - 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
 - 📄 [Retkipäiväkirja.md](AVE NOX/Journals/Retkipäiväkirja.md)
 
