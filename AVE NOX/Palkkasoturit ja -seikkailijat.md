@@ -9,9 +9,12 @@ Teidän tällä hetkellä palkoilliset:
 
 ## Murdo
 
-30 drakhmaa + 1 osuutta
+![[Murdo.png]]
+
+Palkkaus 30 drakhmaa + 1 osuutta\
 Loyalty 7
 
+```
 Level 1 Thief
 Armour Class 5 [14] (leather armour)
 Hit Points 2
@@ -23,12 +26,16 @@ Alignment Chaotic
 STR 10 INT 8 WIS 13
 DEX 16 CON 9 CHA 15
 Items 4 knives
+```
 
 ## Wolfhart kolmas
 
-60 drakhmaa + 0.5 osuutta
+![[Wolfhart.png]]
+
+Palkkaus 60 drakhmaa + 0.5 osuutta\
 Loyalty 7
 
+```
 Level 2 Fighter
 Armour Class 4 [16] (platemail)
 Hit Points 9
@@ -40,3 +47,4 @@ Alignment Neutral
 STR 15 (+1) INT 10 WIS 14 (+1)
 DEX 9 CON 9 CHA 6
 Items None
+```
