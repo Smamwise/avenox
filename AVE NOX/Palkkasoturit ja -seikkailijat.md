@@ -47,4 +47,5 @@ Alignment Neutral
 STR 15 (+1) INT 10 WIS 14 (+1)
 DEX 9 CON 9 CHA 6
 Items None
+Combat talent: Cleave: When in melee with multiple foes, if the fighter strikes a killing blow, they may immediately make another attack against a second foe. The second attack roll is penalised at –2.
 ```
