@@ -22,7 +22,6 @@ Sääntöjä, lorea, yms.
 - 📄 [Gods and religions.md](AVE NOX/Gods and religions.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
 - 📄 [Magic.md](AVE NOX/Magic.md)
-- 📄 [Palkkasoturit ja -seikkailijat.md](AVE NOX/Palkkasoturit ja -seikkailijat.md)
 
 ### Rules
 - 📄 [Additional rules.md](AVE NOX/Additional rules.md)
