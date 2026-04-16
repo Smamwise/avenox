@@ -62,7 +62,7 @@ jobs:
                   path = image_index.get(filename)
                   if path:
                       path = path.replace(' ', '%20')
-                      return f'<img src="https://github.com/Smamwise/{repo_name}/blob/main/{path}" width="{width}">'
+                      return f'<img src="https://github.com/Smamwise/{repo_name}/blob/main/{path}?raw=true" width="{width}">'
                   else:
                       return match.group(0)
                       
