@@ -9,7 +9,7 @@ Teidän tällä hetkellä palkoilliset:
 
 ## Murdo
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/Murdo.png" width="200">
+<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/Murdo.png?raw=true" width="200">
 
 Palkkaus 30 drakhmaa + 1 osuutta\
 Loyalty 7
@@ -30,7 +30,7 @@ Items 4 knives
 
 ## Wolfhart kolmas
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/Wolfhart.png" width="200">
+<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/Wolfhart.png?raw=true" width="200">
 
 Palkkaus 60 drakhmaa + 0.5 osuutta\
 Loyalty 7
