@@ -4,8 +4,8 @@ tags:
 ---
 # Retainers
 
-Retainers are NPCs that are hired by characters to accompany them on an adventure.
-**Limit per PC:** Each character is limited to a finite number of retainers, as indicated by the character’s Charisma score (see Ability Scores, p20). 
+Retainers are NPCs that are hired by the party to accompany them on an adventure.
+**Limit per party:** Each party is limited to a finite number of retainers, as indicated by the characters' highest Charisma score (see Ability Scores, p20). 
 **Duties:** Retainers are not mindless slaves and, although they will usually share the party’s risks, they will not willingly act as battle fodder. If abused in any way, retainers will typically warn others of this and the PCs will soon find it difficult to hire other retainers.
 
 ## Hiring Retainers
@@ -16,11 +16,11 @@ Applicants are recruited through negotiation, with the referee playing the roles
 
 Once an applicant has been located, the hiring PC must offer them a certain wage.  
 Wage usually consists of a daily rate (paid for a month in advance as is custom) and a share of treasure found.
-Even for a months wages, loyalty is still checked.
+Even for a months wages, loyalty is still checked when appropriate.
 
 ## Loyalty
 
-Retainers have a loyalty rating, determined by the hiring character’s CHA (see Ability Scores, p20). This rating may be adjusted at the referee’s discretion:
+Retainers have a loyalty rating, determined by the party's characters' highest CHA (see Ability Scores, p20). This rating may be adjusted at the referee’s discretion:
 **Bonuses:** A retainer’s loyalty may be increased if the PC has been particularly good to the retainer (e.g. has repeatedly given additional treasure).
 **Penalties:** A retainer’s loyalty may be reduced if the PC has been cruel or contrary to their word.
 

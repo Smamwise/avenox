@@ -7,27 +7,27 @@ tags:
 
 **Veli Renard**, errant friar
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/renard.png?raw=true" width="200">
+![[renard.png]]
 
 **Steelo**, lost droid
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/steelo.png?raw=true" width="200">
+![[steelo.png]]
 
 **Estrella**, molefolk
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/estrella.jpg?raw=true" width="200">
+![[estrella.jpg]]
 
 **Saamarin Nuija**, thief
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/nuija2.jpg?raw=true" width="200">
+![[nuija2.jpg]]
 
 **Verso**, magic-user
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/verso.jpg?raw=true" width="200">
+![[verso.jpg]]
 
 **Edwarf**, dwarf
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/edwarf.jpg?raw=true" width="200">
+![[edwarf.jpg]]
 
 ## In memoriam
 

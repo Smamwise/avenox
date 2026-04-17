@@ -77,37 +77,37 @@ tags:
 
 # Weapons
 
-| Weapon               | Cost (gp)     | Encumbrance | Damage | Qualities                                                                 | Description |
-|---------------------|--------------|-------------|--------|---------------------------------------------------------------------------|-------------|
-| Battle axe          | 7            | 2           | 1d8    | Melee, Two-handed                                                         | — |
-| Club                | 3            | 1           | 1d4    | Blunt, Melee                                                              | — |
-| Crossbow            | 30           | 2           | 1d6    | Missile (5’–80’ / 81’–160’ / 161’–240’), Reload, Two-handed               | — |
-| Dagger              | 3            | 1           | 1d4    | Melee, Missile (5’–10’ / 11’–20’ / 21’–30’)                               | — |
-| Hand axe            | 4            | 1           | 1d6    | Melee, Missile (5’–10’ / 11’–20’ / 21’–30’)                               | — |
-| Holy water (vial)   | 25           | -           | 1d8    | Missile (5’–10’ / 11’–30’ / 31’–50’), Splash weapon                       | — |
-| Javelin             | 1            | 1           | 1d4    | Missile (5’–30’ / 31’–60’ / 61’–90’)                                      | — |
-| Lance               | 5            | 2           | 1d6    | Charge, Melee                                                             | — |
-| Long bow            | 40           | 2           | 1d6    | Missile (5’–70’ / 71’–140’ / 141’–210’), Two-handed                       | — |
-| Mace                | 5            | 1           | 1d6    | Blunt, Melee                                                              | — |
-| Oil (flask), burning| 2            | 1           | 1d8    | Missile (5’–10’ / 11’–30’ / 31’–50’), Splash weapon                       | — |
-| Pole arm            | 7            | 2           | 1d10   | Brace, Melee, Two-handed                                                  | — |
-| Short bow           | 25           | 2           | 1d6    | Missile (5’–50’ / 51’–100’ / 101’–150’), Two-handed                       | — |
-| Short sword         | 7            | 1           | 1d6    | Melee                                                                     | — |
-| Silver dagger       | 30           | 1           | 1d4    | Melee, Missile (5’–10’ / 11’–20’ / 21’–30’)                               | — |
-| Sling               | 2            | 1           | 1d4    | Blunt, Missile (5’–40’ / 41’–80’ / 81’–160’)                              | — |
-| Spear               | 3            | 1           | 1d6    | Brace, Melee, Missile (5’–20’ / 21’–40’ / 41’–60’)                        | — |
-| Staff               | 2            | 2           | 1d4    | Blunt, Melee, Two-handed                                                  | — |
-| Sword               | 10           | 1           | 1d8    | Melee                                                                     | — |
-| Torch               | 1 (for 6)    | bundle      | 1d4    | Melee                                                                     | — |
-| Two-handed sword    | 15           | 2           | 1d10   | Melee, Two-handed                                                         | — |
-| War hammer          | 5            | 1           | 1d6    | Blunt, Melee                                                              | — |
-| Bastard sword       | 15           | 2           | 1d6+1  | Melee, Versatile (1d8+1)                                                  | A long sword usable one- or two-handed. |
-| Blackjack           | 1            | 1           | 1d2    | Blunt, Knock-out, Melee, Stealth                                          | A small leather pouch filled with sand or lead, used to quietly knock out targets. |
-| Blowgun             | 3            | 1           | None   | Missile (5’–10’ / 11’–20’ / 21’–30’)                                      | A 3’ tube that fires darts; deals no damage but can deliver poison. |
-| Bolas               | 5            | 1           | 1d2    | Blunt, Entangle, Missile (5’–20’ / 21’–40’ / 41’–60’)                     | Weighted cords thrown to entangle a target. |
-| Garotte             | 1            | 1           | 1d4    | Melee, Stealth, Strangle, Two-handed                                      | A cord or wire used to silently strangle victims. |
-| Net                 | 5            | 1           | None   | Blunt, Entangle, Missile (5’–10’ / 11’–20’ / 21’–30’)                     | A 6’ mesh thrown to entangle human-sized or smaller targets. |
-| Whip                | 10           | 1           | 1d2    | Entangle, Melee                                                           | A 10’ braided leather whip; can deal damage or entangle on hit. |
+| Weapon               | Cost (gp) | Encumbrance | Damage | Qualities                                                   | Description                                                                        |
+| -------------------- | --------- | ----------- | ------ | ----------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Battle axe           | 7         | 2           | 1d8    | Melee, Two-handed                                           | —                                                                                  |
+| Club                 | 3         | 1           | 1d4    | Blunt, Melee                                                | —                                                                                  |
+| Crossbow             | 30        | 2           | 1d6    | Missile (5’–80’ / 81’–160’ / 161’–240’), Reload, Two-handed | —                                                                                  |
+| Dagger               | 3         | 1           | 1d4    | Melee, Missile (5’–10’ / 11’–20’ / 21’–30’)                 | —                                                                                  |
+| Hand axe             | 4         | 1           | 1d6    | Melee, Missile (5’–10’ / 11’–20’ / 21’–30’)                 | —                                                                                  |
+| Holy water (vial)    | 25        | -           | 1d8    | Missile (5’–10’ / 11’–30’ / 31’–50’), Splash weapon         | —                                                                                  |
+| Javelin              | 1         | 1           | 1d4    | Missile (5’–30’ / 31’–60’ / 61’–90’)                        | —                                                                                  |
+| Lance                | 5         | 2           | 1d6    | Charge, Melee                                               | —                                                                                  |
+| Long bow             | 40        | 2           | 1d6    | Missile (5’–70’ / 71’–140’ / 141’–210’), Two-handed         | —                                                                                  |
+| Mace                 | 5         | 1           | 1d6    | Blunt, Melee                                                | —                                                                                  |
+| Oil (flask), burning | 2         | 1           | 1d8    | Missile (5’–10’ / 11’–30’ / 31’–50’), Splash weapon         | —                                                                                  |
+| Pole arm             | 7         | 2           | 1d10   | Brace, Melee, Two-handed                                    | —                                                                                  |
+| Short bow            | 25        | 2           | 1d6    | Missile (5’–50’ / 51’–100’ / 101’–150’), Two-handed         | —                                                                                  |
+| Short sword          | 7         | 1           | 1d6    | Melee                                                       | —                                                                                  |
+| Silver dagger        | 30        | 1           | 1d4    | Melee, Missile (5’–10’ / 11’–20’ / 21’–30’)                 | —                                                                                  |
+| Sling                | 2         | 1           | 1d4    | Blunt, Missile (5’–40’ / 41’–80’ / 81’–160’)                | —                                                                                  |
+| Spear                | 3         | 1           | 1d6    | Brace, Melee, Missile (5’–20’ / 21’–40’ / 41’–60’)          | —                                                                                  |
+| Staff                | 2         | 2           | 1d4    | Blunt, Melee, Two-handed                                    | —                                                                                  |
+| Sword                | 10        | 1           | 1d8    | Melee                                                       | —                                                                                  |
+| Torch                | 1 (for 6) | bundle      | 1d4    | Melee                                                       | —                                                                                  |
+| Two-handed sword     | 15        | 2           | 1d10   | Melee, Two-handed                                           | —                                                                                  |
+| War hammer           | 5         | 1           | 1d6    | Blunt, Melee                                                | —                                                                                  |
+| Bastard sword        | 15        | 2           | 1d6+1  | Melee, Versatile (1d8+1)                                    | A long sword usable one- or two-handed.                                            |
+| Blackjack            | 1         | 1           | 1d2    | Blunt, Knock-out, Melee, Stealth                            | A small leather pouch filled with sand or lead, used to quietly knock out targets. |
+| Blowgun              | 3         | 1           | None   | Missile (5’–10’ / 11’–20’ / 21’–30’)                        | A 3’ tube that fires darts; deals no damage but can deliver poison.                |
+| Bolas                | 5         | 1           | 1d2    | Blunt, Entangle, Missile (5’–20’ / 21’–40’ / 41’–60’)       | Weighted cords thrown to entangle a target.                                        |
+| Garotte              | 1         | 1           | 1d4    | Melee, Stealth, Strangle, Two-handed                        | A cord or wire used to silently strangle victims.                                  |
+| Net                  | 5         | 1           | None   | Blunt, Entangle, Missile (5’–10’ / 11’–20’ / 21’–30’)       | A 6’ mesh thrown to entangle human-sized or smaller targets.                       |
+| Whip                 | 10        | 1           | 1d2    | Entangle, Melee                                             | A 10’ braided leather whip; can deal damage or entangle on hit.                    |
 
 ## Qualities
 
