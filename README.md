@@ -25,14 +25,14 @@ Sääntöjä, lorea, yms.
 
 ### Rules
 - 📄 [Additional rules.md](AVE NOX/Additional rules.md)
-- 📄 [Adventuring gear, weapons and armor.md](AVE NOX/Adventuring gear, weapons and armor.md)
 - 📄 [Carousing.md](AVE NOX/Carousing.md)
 - 📄 [Classes.md](AVE NOX/Classes.md)
 - 📄 [Combat.md](AVE NOX/Combat.md)
 - 📄 [Dungeon Turn.md](AVE NOX/Dungeon Turn.md)
-- 📄 [Encumbrance.md](AVE NOX/Encumbrance.md)
 - 📄 [Expertise and D6 skills.md](AVE NOX/Expertise and D6 skills.md)
 - 📄 [Feats of exploration.md](AVE NOX/Feats of exploration.md)
+- 📄 [Items - adventuring gear, weapons and armor.md](AVE NOX/Items - adventuring gear, weapons and armor.md)
+- 📄 [Items - encumbrance.md](AVE NOX/Items - encumbrance.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
 - 📄 [Magic.md](AVE NOX/Magic.md)
 - 📄 [Retainers.md](AVE NOX/Retainers.md)
