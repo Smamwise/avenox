@@ -12,10 +12,10 @@ Sääntöjä, lorea, yms.
 
 <!-- FILE-INDEX-START -->
 ### Journal
+- 📄 [AVE NOX.md](AVE NOX/AVE NOX.md)
 - 📄 [Palkkasoturit ja -seikkailijat.md](AVE NOX/Palkkasoturit ja -seikkailijat.md)
 - 📄 [Pelaajahahmot.md](AVE NOX/Pelaajahahmot.md)
-- 📄 [AVE NOX.md](AVE NOX/Journals/AVE NOX.md)
-- 📄 [Retkipäiväkirja.md](AVE NOX/Journals/Retkipäiväkirja.md)
+- 📄 [Retkipäiväkirja.md](AVE NOX/Retkipäiväkirja.md)
 
 ### Lore
 - 📄 [Currency.md](AVE NOX/Currency.md)
@@ -29,13 +29,12 @@ Sääntöjä, lorea, yms.
 - 📄 [Classes.md](AVE NOX/Classes.md)
 - 📄 [Combat.md](AVE NOX/Combat.md)
 - 📄 [Dungeon Turn.md](AVE NOX/Dungeon Turn.md)
-- 📄 [Expertise and D6 skills.md](AVE NOX/Expertise and D6 skills.md)
 - 📄 [Feats of exploration.md](AVE NOX/Feats of exploration.md)
+- 📄 [Hirelings.md](AVE NOX/Hirelings.md)
 - 📄 [Items - adventuring gear, weapons and armor.md](AVE NOX/Items - adventuring gear, weapons and armor.md)
 - 📄 [Items - encumbrance.md](AVE NOX/Items - encumbrance.md)
 - 📄 [Languages.md](AVE NOX/Languages.md)
 - 📄 [Magic.md](AVE NOX/Magic.md)
-- 📄 [Retainers.md](AVE NOX/Retainers.md)
 - 📄 [Saves.md](AVE NOX/Saves.md)
 - 📄 [Skills.md](AVE NOX/Skills.md)
 <!-- FILE-INDEX-END -->
