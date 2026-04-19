@@ -4,20 +4,19 @@ tags:
 ---
 # Retkipäiväkirja
 
-# Kolmas retkipäiväkirjan merkintä
+## Kolmas retkipäiväkirjan merkintä
 
-IRL pvm. 29.4.2026
-Ensimmäinen päivä
+IRL pvm. 29.4.2026. Toinen päivä maan alla.
 
-Players and PC:s
+Pelaajat ja hahmot
 
-## DM muistiinpanot
+### DM muistiinpanot
 
 - Lasketaan kaikki XP ensin yhteen ja sitten jaetaan ja pyöristetään ylempänä olevaan 10
 
-## Tässä jaksossa
+### Tässä jaksossa
 
-## Experience & Feats
+### Experience & Feats
 
 - Treasure:
 - Monsters:
@@ -44,7 +43,7 @@ Players and PC:s
 | Faction     |             |            |
 | Quest       |             |            |
 
-# Toinen retkipäiväkirjan merkintä
+## Toinen retkipäiväkirjan merkintä
 
 IRL pvm. 15.4.2026
 Ensimmäinen päivä
@@ -54,14 +53,14 @@ Players and PC:s
 - Ti - Veli Renard, errant friar
 - I - Verso, magic user
 
-## DM muistiinpanot
+### DM muistiinpanot
 
 - Viime kerralla jaoin extra paljon expaa, saatte pitää ne nyt, mutta mainitsenpa vain.
 - Tavoite tälle kerralle ja jos se saavutetaan niin XP määrä (joka jaetaan kolmelle)
 	- Laskeudutaan seuraavalle tasolle, ei saavutettu
 - Verso, kysele ihmeessä, upataan sun tietämystä
 
-## Tässä jaksossa
+### Tässä jaksossa
 
 - edellisen pelikerran kertaus
 - Ympärillä toisen retkikunnan ruumiita, 6 kääpiötä ja yksi nuori nainen, teidän kolme toveria: Blaine, Ykä ja Kargor, mitä teette heille?
@@ -79,12 +78,12 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
  
-## Experience & Feats
+### Experience & Feats
 
 - Treasure: 250
 - Monsters: 400
@@ -111,7 +110,7 @@ Players and PC:s
 | Faction     |                                                               |            |
 | Quest       |                                                               |            |
 
-# Ensimmäinen retkipäiväkirjan merkintä
+## Ensimmäinen retkipäiväkirjan merkintä
 
 IRL pvm. 1.4.2026
 Ensimmäinen päivä
@@ -124,7 +123,7 @@ Players and PC:s
 - Ti - Veli Renard, errant friar
 - I - Verso magic user
 
-## What happened
+### What happened
 - Maan alle kiipeäminen
 - Muraalin ihmettelyä
 - Renard koputteli putkia
@@ -138,7 +137,6 @@ Players and PC:s
 - Kääpiöiden ruumista Nuija löysi liiloja sitruunoita ja kilin kolin kellon.
 - Putkikauppias tuli morottamaan luukusta
 - Jäätiin pyöreän oven huoneeseen
-## Experience & Feats
 
 ### Experience
 
