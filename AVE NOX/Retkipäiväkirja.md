@@ -6,9 +6,17 @@ tags:
 
 ## Kolmas retkipäiväkirjan merkintä
 
-IRL pvm. 29.4.2026. Toinen päivä maan alla.
+IRL pvm. 22.4.2026. Toinen päivä maan alla.
 
 Pelaajat ja hahmot
+- Jo - Steelo
+- Ju - Saamarin Nuija
+- Tu1 - Edwarf
+- Tu2 - Estrella
+
+Palkkasoturit
+- Murdo
+- Wolfhart kolmas
 
 ### DM muistiinpanot
 
@@ -78,7 +86,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
