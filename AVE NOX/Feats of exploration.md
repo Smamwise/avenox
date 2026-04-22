@@ -17,20 +17,14 @@ The amount of XP a PC needs to advance from the start of their current level to 
 - **Extraordinary:** yields 10% of TXP per Feat. Extraordinary awards are very rarely achieved, and usually coincide with major campaign developments and shifts, e.g. factions changing alliances or filling power vacuums due to PC actions, major quest completions, etc.
 - **Campaign:** yields 15% of TXP per Feat. Campaign rewards should be created by the GM as bespoke and extremely difficult goals for entire campaigns. They are highly specific, e.g. "Retrieve the Ancient Regalia from the four corners of the Empire", "Reinstate the Lost King to his throne", "Banish the Ravening Horde to the Abyss", etc. In emergent play, campaign rewards can (and should) be created and awarded on the fly as the story unfolds.
 
-| Feat        | Definition                                                           |
-| ----------- | -------------------------------------------------------------------- |
-| Exploration | Explore at least 5 areas of a single dungeon level.                  |
-| Lore        | Apply in-world lore in a useful or flavorful manner.                 |
-| Rumor       | Confirm a rumor's veracity/truthfulness.                             |
-| Secret      | Find a secret or intrepet hidden lore.                               |
-| Puzzle      | Solve a puzzle.                                                      |
-| Trap        | Overcome a trap.                                                     |
-| Hazards     | Surmount an environmental obstacle or hazard.                        |
-| Skills      | Use equipment or abilities in an unorthodox but useful manner.       |
-| Location    | Discover an important location.                                      |
-| NPC         | Interact beneficially with an important NPC when stakes are at play. |
-| Faction     | Manipulate or cripple a faction to your benefit.                     |
-| Quest       | Complete a quest.                                                    |
+| Feat        | Definition                                                     |
+| ----------- | -------------------------------------------------------------- |
+| Exploration | Explore at least 5 areas of a single dungeon level.            |
+| Lore        | Löysitte ja selvititte mielenkiintoista lorea                  |
+| Puzzle      | Solve a puzzle.                                                |
+| Hazards     | Surmount an environmental obstacle, hazard or trap             |
+| Skills      | Use equipment or abilities in an unorthodox but useful manner. |
+
 
 ## The Procedure
 
