@@ -24,7 +24,6 @@
 - 📄 [Classes.md](AVE NOX/Classes.md)
 - 📄 [Combat.md](AVE NOX/Combat.md)
 - 📄 [Dungeon Turn.md](AVE NOX/Dungeon Turn.md)
-- 📄 [Feats of exploration.md](AVE NOX/Feats of exploration.md)
 - 📄 [Hirelings.md](AVE NOX/Hirelings.md)
 - 📄 [Items - adventuring gear, weapons and armor.md](AVE NOX/Items - adventuring gear, weapons and armor.md)
 - 📄 [Items - encumbrance.md](AVE NOX/Items - encumbrance.md)
@@ -32,4 +31,5 @@
 - 📄 [Magic.md](AVE NOX/Magic.md)
 - 📄 [Saves.md](AVE NOX/Saves.md)
 - 📄 [Skills.md](AVE NOX/Skills.md)
+- 📄 [XP - Feats of exploration.md](AVE NOX/XP - Feats of exploration.md)
 <!-- FILE-INDEX-END -->
