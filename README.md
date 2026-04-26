@@ -20,7 +20,6 @@
 
 ### Rules
 - 📄 [Additional rules.md](AVE NOX/Additional rules.md)
-- 📄 [Carousing.md](AVE NOX/Carousing.md)
 - 📄 [Classes.md](AVE NOX/Classes.md)
 - 📄 [Combat.md](AVE NOX/Combat.md)
 - 📄 [Dungeon Turn.md](AVE NOX/Dungeon Turn.md)
@@ -31,5 +30,6 @@
 - 📄 [Magic.md](AVE NOX/Magic.md)
 - 📄 [Saves.md](AVE NOX/Saves.md)
 - 📄 [Skills.md](AVE NOX/Skills.md)
+- 📄 [XP - Carousing.md](AVE NOX/XP - Carousing.md)
 - 📄 [XP - Feats of exploration.md](AVE NOX/XP - Feats of exploration.md)
 <!-- FILE-INDEX-END -->
