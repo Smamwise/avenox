@@ -10,9 +10,9 @@ XP awards based on exploration.
 
 **Experience points from feats:** level of PCs times 100 times the highest level PC.
 
-Party consists of 4 level 1 PCs, The feat XP is 400. $(1+1+1+1)*100*1=400$ \
-Party consists of 3 level 1 PCs and 1 level 2 PC, The feat XP is 1000. $(1+1+1+2)*100*2=1000$ \
-Party consists of 2 level 2 PCs and 1 level 3 PC and 1 level 4 pc, The feat XP is 4400. $(2+2+3+4)*100*4=4400$ .
+Party consists of 4 level 1 PCs, The feat XP is 400. $(1+1+1+1) * 100 * 1 = 400$ \
+Party consists of 3 level 1 PCs and 1 level 2 PC, The feat XP is 1000. $(1+1+1+2) * 100 * 2 = 1000$ \
+Party consists of 2 level 2 PCs and 1 level 3 PC and 1 level 4 pc, The feat XP is 4400. $(2+2+3+4) * 100 * 4 = 4400$ .
 
 ## Award Values
 
