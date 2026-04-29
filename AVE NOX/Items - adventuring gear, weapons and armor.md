@@ -127,17 +127,17 @@ tags:
 
 # Armor
 
-| Armour           | AC        | Cost (gp) | Encumbrance | Description |
-|------------------|-----------|-----------|----------------|-------------|
-| Padded armour    | 8 [11]    | 5         | 1            | Layers of cloth and quilted padding. |
-| Furs             | 7 [12]    | 10        | 1            | Thick layered animal pelts; used when better armour isn’t available. |
-| Leather          | 7 [12]    | 20        | 1            | — |
-| Studded leather  | 6 [13]    | 25        | 2            | Flexible leather reinforced with metal rivets. |
-| Chainmail        | 5 [14]    | 40        | 2            | — |
-| Banded mail      | 4 [15]    | 50        | 2            | Metal bands riveted to leather with chain at the joints. |
-| Plate mail       | 3 [16]    | 60        | 2            | — |
-| Full plate       | 2 [17]    | 1000      | 2            | Custom-fitted interlocking plates over chain and padding; ill-fitting suits only grant AC 3 [16]. |
-| Shield           | +1 bonus  | 10        | 2            | — |
+| Armour          | AC       | Cost (gp) | Encumbrance | Description                                                                                       |
+| --------------- | -------- | --------- | ----------- | ------------------------------------------------------------------------------------------------- |
+| Padded armour   | 8 [11]   | 5         | 1           | Layers of cloth and quilted padding.                                                              |
+| Furs            | 7 [12]   | 10        | 1           | Thick layered animal pelts; used when better armour isn’t available.                              |
+| Leather         | 7 [12]   | 20        | 1           | —                                                                                                 |
+| Studded leather | 6 [13]   | 25        | 2           | Flexible leather reinforced with metal rivets.                                                    |
+| Chainmail       | 5 [14]   | 40        | 2           | —                                                                                                 |
+| Banded mail     | 4 [15]   | 50        | 2           | Metal bands riveted to leather with chain at the joints.                                          |
+| Plate mail      | 3 [16]   | 60        | 2           | —                                                                                                 |
+| Full plate      | 2 [17]   | 1000      | 2           | Custom-fitted interlocking plates over chain and padding; ill-fitting suits only grant AC 3 [16]. |
+| Shield          | +1 bonus | 10        | 2           | —                                                                                                 |
 
 Characters who can use leather armour: Can use padded armour and furs.\
 Characters who can use chainmail: Can use studded leather.\

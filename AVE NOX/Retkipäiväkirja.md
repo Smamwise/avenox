@@ -4,21 +4,28 @@ tags:
 ---
 # Retkipäiväkirja
 
+## Viides retkipäiväkirjan merkintä
+
+IRL pvm.
+
+### DM muistiinpanot
+
+- Ju ja Tu2 Feats expa unohtui 80
+- ==XP ja aarteet tulee tietenkin jakaa myös palkkasoturien kanssa!!==
+	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan.
+
 ## Neljäs retkipäiväkirjan merkintä
 
 IRL pvm. 29.4.2026. Toinen päivä maan alla.
 
 ### DM muistiinpanot
 
-- Jo, Ju, Iv ja Tu2 Feats expa unohtui: 324 / 4 = 81 per pelaaja
+- ~~Jo, Ju, Iv ja Tu2 Feats expa unohtui: 320 / 4 = 80 per pelaaja~~
 
 Pelaajat ja hahmot
 - Jo - Steelo
-- Ju - Saamarin Nuija
 - Iv - Verso
 - Tu1 - Edwarf
-- Tu2 - State of D'Arth
-- Ti - Veli Renard
 
 Palkkasoturit
 - Murdo
@@ -26,25 +33,50 @@ Palkkasoturit
 
 ### Tässä jaksossa
 
+- Seikkailu jatkui putki/kaasuhuoneen edestä
+- Lännessä päin iso kasa rojua ja roskaa
+- YLLÄTYS JÄPÖ HYÖKKÄYS (jänisponi)
+- Taistelu, jäpö lähti karkuun
+- Putkikauppiaan kanssa höpöttelyä ja ostoksia
+- Seinän toisella puolella etelässä jonkinlainen iso allas ja rakennuksia
+- Haisi kalalta, limalta ja sisälmyksiltä
+- Rakennuksista:
+	- Löytyi tarvikevarasto, kalastusvälineitä
+	- Keskikokoinen allas jossa isoja nahkiaisia
+	- Pienempiä altaita joissa pienempiä nahkiaisia
+- Pienemmät nahkiaiset kävivät päälle, karkuun ja ovi kiinni!
+- "laituri" oli täynnä limaa ja sisälmyksiä ja kaikkea ällöä, liukasta
+- ison altaan päällä meni puisia kapeita siltoja
+	- Sillan päällä kauempana oli kalastava kummitus
+- Kalastettiin nahkiainen keskikokoisesta altaasta
+- Annettiin nahkiainen Urmalle, koirapojalle, saatiin hieno kirves!
+- Takaisin Al-Siirhajariin
+- Busofideä moikkaamaan
+	- Verso tarjosi tiktok manifestia Busofidelle, Busofide pyysi apulaispoikaansa (10v lapsi) lukemaan manifestin
+	- Versolle kasvoi selkäranka ja päätti ettei laiteta lasta lukemaan kirottua manifestia
+- Seppä Trisiitille käymään, kirves sepälle, Steelon korjaamista
+	- Tilaukseen panssari (teräskudelmasta) ja iso vasara Edwarfille, ne saa ylihuomenna ja sen jälkeisenä päivänä hakea (päivät 3 ja 4 pelin sisäistä ajanlaskua)
+- Kasvihuoneesta, Asalilta lehtiä loistomadoille ruuaksi (madot ostettu PK:lta)
+- Yleistä pööpöilyä ja ostoksia, hieno kaftaani Edwarfille
+- Syömään ja nukkumaan tähtitelttaan
 
 ### Experience & Feats
 
-- Treasure: 
-- Monsters: 
-- Feats: 
-- Tavoite: 
-- XP per PC:  
+- Treasure: 500
+- Monsters: 300 
+- Feats: 600
+- Tavoite: Urmalle lihaa, 600 xp
+- XP per PC: 670  
 
-Per feat XP: 
-(PC levels * 100 * highest PC level)
+Per feat XP: 300
 
-| Feat        | Description |
-| ----------- | ----------- |
-| Exploration |             |
-| Lore        |             |
-| Puzzle      |             |
-| Hazards     |             |
-| Skills      |             |
+| Feat        | Description                     |
+| ----------- | ------------------------------- |
+| Exploration | joni, kummitus, nahkiaiset yms. |
+| Lore        |                                 |
+| Puzzle      |                                 |
+| Hazards     |                                 |
+| Skills      | kalastus                        |
 
 
 ## Kolmas retkipäiväkirjan merkintä
@@ -117,7 +149,7 @@ Ensimmäinen päivä
 Players and PC:s
 - Jo - Steelo, robotti
 - Ti - Veli Renard, errant friar
-- I - Verso, magic user
+- Iv - Verso, magic user
 
 ### DM muistiinpanot
 
@@ -144,7 +176,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
