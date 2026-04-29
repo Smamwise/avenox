@@ -52,7 +52,7 @@ Palkkasoturit
 - Annettiin nahkiainen Urmalle, koirapojalle, saatiin hieno kirves!
 - Takaisin Al-Siirhajariin
 - Busofideä moikkaamaan
-	- Verso tarjosi tiktok manifestia Busofidelle, Busofide pyysi apulaispoikaansa (10v lapsi) lukemaan manifestin
+	- Verso tarjosi tiktok manifestia Busofidelle, Busofide pyysi apulaispoikaansa (10v lapsi, Farad) lukemaan manifestin
 	- Versolle kasvoi selkäranka ja päätti ettei laiteta lasta lukemaan kirottua manifestia
 - Seppä Trisiitille käymään, kirves sepälle, Steelon korjaamista
 	- Tilaukseen panssari (teräskudelmasta) ja iso vasara Edwarfille, ne saa ylihuomenna ja sen jälkeisenä päivänä hakea (päivät 3 ja 4 pelin sisäistä ajanlaskua)
@@ -176,7 +176,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
