@@ -6,21 +6,26 @@ tags:
 
 ## Viides retkipäiväkirjan merkintä
 
-IRL pvm.
+IRL pvm. 13.5. Kolmas, Neljäs ja Viides päivä aavemailla.
 
 ### DM muistiinpanot
 
-- Ju ja Tu2 Feats expa unohtui 80
+- Nuija ja D'Arthr: feats expa unohtui, 80
 - ==XP ja aarteet tulee tietenkin jakaa myös palkkasoturien kanssa!!==
-	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan.
+	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan. Jatkossa ottavat kyllä osansa.
+	- Murdon ja Wolfhartin loyalty test
+	- Murdo ja Wolfhartin yöpyminen ja ruoka pitää myös kustantaa, sekä tarvittavat varusteet
+- Aikooko Steelo, Verso tai Edwarf elämöidä? [[XP - Carousing]]
+
+### Tässä jaksossa
 
 ## Neljäs retkipäiväkirjan merkintä
 
-IRL pvm. 29.4.2026. Toinen päivä maan alla.
+IRL pvm. 29.4.2026. Toinen päivä Aavemailla.
 
 ### DM muistiinpanot
 
-- ~~Jo, Ju, Iv ja Tu2 Feats expa unohtui: 320 / 4 = 80 per pelaaja~~
+- ~~Jo, Ju, Iv ja Tu2 Feats expa unohtui: 320 / 4 = 80 per pelaaja~~ annettu Steelolle ja Versolle.
 
 Pelaajat ja hahmot
 - Jo - Steelo
@@ -52,10 +57,12 @@ Palkkasoturit
 - Annettiin nahkiainen Urmalle, koirapojalle, saatiin hieno kirves!
 - Takaisin Al-Siirhajariin
 - Busofideä moikkaamaan
+	- Pientä kaupankäntiä löydetyistä aarteista
 	- Verso tarjosi tiktok manifestia Busofidelle, Busofide pyysi apulaispoikaansa (10v lapsi, Farad) lukemaan manifestin
 	- Versolle kasvoi selkäranka ja päätti ettei laiteta lasta lukemaan kirottua manifestia
 - Seppä Trisiitille käymään, kirves sepälle, Steelon korjaamista
-	- Tilaukseen panssari (teräskudelmasta) ja iso vasara Edwarfille, ne saa ylihuomenna ja sen jälkeisenä päivänä hakea (päivät 3 ja 4 pelin sisäistä ajanlaskua)
+	- Tilaukseen panssari (teräskudelmasta) ja iso vasara Edwarfille, ne saa ylihuomenna ja sen jälkeisenä päivänä hakea (päivät 3 ja 4 pelin sisäistä ajanlaskua) (panssari paino 1, AC 16 ja iso vasara 1d8)
+	- Adamantium kirveestä Trisiitta tarjoutui myös korjaamaan Steelon ilmaiseksi kaksi kertaa, hyödynnettiin ensimmäinen kerta heti.
 - Kasvihuoneesta, Asalilta lehtiä loistomadoille ruuaksi (madot ostettu PK:lta)
 - Yleistä pööpöilyä ja ostoksia, hieno kaftaani Edwarfille
 - Syömään ja nukkumaan tähtitelttaan
@@ -81,13 +88,13 @@ Per feat XP: 300
 
 ## Kolmas retkipäiväkirjan merkintä
 
-IRL pvm. 22.4.2026. Toinen päivä maan alla.
+IRL pvm. 22.4.2026. Toinen päivä Aavemailla.
 
 Pelaajat ja hahmot
 - Jo - Steelo
 - Ju - Saamarin Nuija
 - Iv - Verso
-- Tu2 - ~~Estrella~~, State of D'Arth
+- Tu2 - ~~Estrella~~, State of D'Arthr
 
 Palkkasoturit
 - Murdo
@@ -144,7 +151,7 @@ Palkkasoturit
 ## Toinen retkipäiväkirjan merkintä
 
 IRL pvm. 15.4.2026
-Ensimmäinen päivä
+Ensimmäinen päivä Aavemailla
 
 Players and PC:s
 - Jo - Steelo, robotti
@@ -176,7 +183,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
@@ -211,7 +218,7 @@ Players and PC:s
 ## Ensimmäinen retkipäiväkirjan merkintä
 
 IRL pvm. 1.4.2026
-Ensimmäinen päivä
+Ensimmäinen päivä Aavemailla
 
 Players and PC:s
 - Tu1 - ~~Blaine, cleric~~ Edwarf, kääpiö

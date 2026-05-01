@@ -31,9 +31,7 @@ To make a loyalty check, the referee rolls 2d6 and, if the result is lower than 
 - **Peril:** Each time the retainer is exposed to a particularly perilous situation. If the roll fails, the retainer will likely flee.
 - **After an adventure:** If the roll fails, the retainer will not work for the PC again.
 
-## Treasure-Share XP
+## XP
 
-The division of treasure is agreed by the party and does not influence the amount of XP each character gains. The division of XP directly matches the division of treasure, as follows. 
-**Division of treasure:** The manner in which treasure is divided is the party’s decision (usually agreed before the adventure). Retainers are typically awarded a flat fee per day of work and possibly a fractional share of treasure. 
-**Division of XP:** Each character earns XP equal to the gp value of the treasure they were awarded by the party. XP not earned due to treasure (e.g. XP from monsters defeated) is divided evenly between all members of the party. 
-**Retainers’ XP penalty:** If using this optional rule, retainers do not suffer any penalty to XP earned. (But typically earn less XP than PCs as they are awarded a smaller share of treasure.)
+Retainers gain XP and can level up the same way as player characters.
+SEE [[Additional rules#XP]]
