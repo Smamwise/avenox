@@ -32,4 +32,5 @@
 - 📄 [Skills.md](AVE NOX/Skills.md)
 - 📄 [XP - Carousing.md](AVE NOX/XP - Carousing.md)
 - 📄 [XP - Feats of exploration.md](AVE NOX/XP - Feats of exploration.md)
+- 📄 [XP.md](AVE NOX/XP.md)
 <!-- FILE-INDEX-END -->
