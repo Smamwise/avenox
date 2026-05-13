@@ -4,20 +4,95 @@ tags:
 ---
 # Retkipäiväkirja
 
+## Kuudes retkipäiväkirjan merkintä
+
+### DM muistiinpanot
+- Nuija ja D'Arthr: feats expa unohtui, 80
+- Kaksi tavoitetta tälle pelikerralle, molemmille omat expat
+
+Pelaajat ja hahmot
+
+Palkkasoturit
+- Wolfhart kolmas
+
 ## Viides retkipäiväkirjan merkintä
 
-IRL pvm. 13.5. Kolmas, Neljäs ja Viides päivä aavemailla.
+IRL pvm. 13.5. Kolmas ja neljäs päivä aavemailla
 
 ### DM muistiinpanot
 
-- Nuija ja D'Arthr: feats expa unohtui, 80
-- ==XP ja aarteet tulee tietenkin jakaa myös palkkasoturien kanssa!!==
+- ~~Nuija ja D'Arthr: feats expa unohtui, 80~~
+- ==XP ja aarteet tulee tietenkin jakaa myös palkkasoturien kanssa==
 	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan. Jatkossa ottavat kyllä osansa.
 	- Murdon ja Wolfhartin loyalty test
 	- Murdo ja Wolfhartin yöpyminen ja ruoka pitää myös kustantaa, sekä tarvittavat varusteet
-- Aikooko Steelo, Verso tai Edwarf elämöidä? [XP - Carousing](/avenox/AVE%20NOX/XP%20-%20Carousing.html)
+- Aikooko Steelo, Verso tai Edwarf elämöidä? [[XP - Carousing]]
 
+Pelaajat ja hahmot
+- Jo - Steelo
+- Tu1 - Edwarf
+
+Palkkasoturit
+- Wolfhart kolmas
 ### Tässä jaksossa
+- Murdo päätti olla jatkamatta seurueen kanssa
+- Koitettiin uhkapelata aamulla epäilyttävässä kapakissa, Edwarf voitti drakhmoja
+- Haettiin Trisiitiltä Edwarfin uusi panssari
+- lähdettiin takaisin maan alle Solisiin, Wolfhart messissä
+- Käytiin alkovit läpi, löydettiin muutamia rahoja
+- Kuultiin pimeydestä puhetta, hissillä oli tyypejä valon kanssa
+- Vaihdettiin sanailuja hissityyppien kanssa
+- Hissillä oli aurinkokuoriaiset, kolmen tyypin seikkailijaeen seurue
+- Päätettiin seikkailla yhdessä
+- Kurkattiin karttapatsas, aurinkomekanismi
+- Mentiin katsomaan aurinkokuninkaan patsasta
+	- sen edessä olevat möykyt olivat kuolleita kyrsijöitä
+	- Patsaan selkään oli isketty adamantiumista tehty sapeli, sitä ei saanut vedettyä irti
+- patsaan takana oli seinä ja ovi ja oven yläpuolella ikkunoita joista tuli valoa
+- Kiivettiin seinää, ikkuinoista näkyi porttihuone ja sen takana toinen huone/aula josta tuli valoa
+- Aurinkokuningas patsaan takaa kyrsijä mulkoilu seikkailijoita ja lähti karkuun kun hänet huomattiin
+- Edwarf laskettiin infranäön kanssa hissikuilua alas, näki että kaksi otusta on väijytyksessä ovien takana
+- Steelo meni alas, heitti molotovin cocktailin väijittäjien jalkoihin
+- Valot päälle ja juosten sotimaan
+	- (matkalla nähtiin ovi, jossa aurinkomekanismi ja runsaudensarvi reliefi)
+- Pylväiden takaa kyrsijät yllättivät seikkailijat, Edwarf sai lingon kivestä otsaan ja kaatui tajuttomana maahan
+- Steelo, Wolfhart ja aurinkokuoriaisten velho Gerddie murhasivat kaksi kyrsijää
+- Oven ja roskien tutkimista
+- Karsinassa oli väijymässä yksi kyrsijä, lähti karkuun kun Wolfhart näki hänet
+- Wolfhart ja Steelo lähtivät perään
+- Heti karsinan jälkeen oli kyrsijä väijymässä, iski Steelon hengiltä
+- Wolfhart pisti kyrsijän hengiltä
+- Wolfhart + porukka (nyt herännyt Edwarf myös) lähtivät pinkomaan Al-Siirhajaria kohti
+- Steelo seppä Trisiitille, ei voinut auttaa henkiin herättämisen kanssa
+- Edwarf lähti nopeasti temppeliin hakemaan pappia
+- Löysi Atum-Ran papin, joka pyysi koko poppoon käännytystä tai 1000 drakhmaa
+	- Edwarf valitsi 1000 drakhmaa
+	- Vannoivat verivalan
+- Pappi Steelon luokse, sapeli rintaan
+	- Steelo heräsi ihmismuodossa hämärältä aavikolta
+	- Edessään jättimäinen hyeena, vieressään hiekkaan pistetty sapeli
+	- Hyeena kyseli Steelolta elämästä ja kuolemasta
+	- Hyeena totesi Steelon olevan henkiinherättämisen arvoinen
+	- Steelo heräsi henkiin, ikuisena Atum-Ran palvelijana
+- Kävivät myymässä löytämänsä hienon asun Xhimir'delle
+
+### Experience & Feats
+
+- Treasure: 421
+- Monsters: 900 
+- Feats: 200
+- Tavoite: -
+- XP per PC: 170+300+100
+
+Per feat XP: 200
+
+| Feat        | Description         |
+| ----------- | ------------------- |
+| Exploration |                     |
+| Lore        |                     |
+| Puzzle      |                     |
+| Hazards     |                     |
+| Skills      | Edwarfin laskeminen |
 
 ## Neljäs retkipäiväkirjan merkintä
 
@@ -183,7 +258,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa

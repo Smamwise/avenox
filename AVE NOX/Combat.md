@@ -56,4 +56,9 @@ Once per combat, a character may charge into melee and attack, as follows:
 - Weapons that may be braced against charging monsters are also effective against charging characters.
 
 ### Parrying
+
 Character may opt to act purely defensively in melee, forfeiting their attack that round. When parrying, the character’s STR modifier bonus to melee attacks or +1 (whichever is higher) is applied as an Armour Class bonus that round.
+
+### Firing into melee
+
+Firing a missile weapon into a melee with 2 or more combatants is risky. There is a 3-in-6 chance that the missile hits a friendly combatant. DM rolls this check in secret before an attack roll is made. Dexterity modifier affects the roll, minumum of 1-in-6 and maximum of 5-in-6. Roll of 1 always hits a friendly combatant.
