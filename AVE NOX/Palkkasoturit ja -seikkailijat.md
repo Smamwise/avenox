@@ -8,7 +8,7 @@ tags:
 
 ### Wolfhart kolmas
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/Wolfhart.png?raw=true" width="200">
+![[Wolfhart.png|200]]
 
 Palkkaus 60 drakhmaa + 0.5 osuutta\
 Loyalty 8
@@ -43,7 +43,7 @@ Kahdenkädenmiekka / 2
 
 ### Murdo
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/Murdo.png?raw=true" width="200">
+![[Murdo.png|200]]
 
 Palkkaus 30 drakhmaa + 1 osuutta\
 Loyalty 8

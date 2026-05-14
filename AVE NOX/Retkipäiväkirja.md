@@ -28,7 +28,7 @@ IRL pvm. 13.5. Kolmas ja neljäs päivä aavemailla
 	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan. Jatkossa ottavat kyllä osansa.
 	- Murdon ja Wolfhartin loyalty test
 	- Murdo ja Wolfhartin yöpyminen ja ruoka pitää myös kustantaa, sekä tarvittavat varusteet
-- Aikooko Steelo, Verso tai Edwarf elämöidä? [XP - Carousing](/avenox/AVE%20NOX/XP%20-%20Carousing.html)
+- Aikooko Steelo, Verso tai Edwarf elämöidä? [[XP - Carousing]]
 
 Pelaajat ja hahmot
 - Jo - Steelo
@@ -59,7 +59,7 @@ Palkkasoturit
 	- (matkalla nähtiin ovi, jossa aurinkomekanismi ja runsaudensarvi reliefi)
 - Pylväiden takaa kyrsijät yllättivät seikkailijat, Edwarf sai lingon kivestä otsaan ja kaatui tajuttomana maahan
 - Steelo, Wolfhart ja aurinkokuoriaisten velho Gerddie murhasivat kaksi kyrsijää
-- Oven ja roskien tutkimista
+- Oven ja roskien tutkimista, Steelo löysi vahakankaisen "lahja"paketin roskien seasta. Paketissa oli hieno vaate jossa joneja ja nahkiaisia
 - Karsinassa oli väijymässä yksi kyrsijä, lähti karkuun kun Wolfhart näki hänet
 - Wolfhart ja Steelo lähtivät perään
 - Heti karsinan jälkeen oli kyrsijä väijymässä, iski Steelon hengiltä
@@ -67,8 +67,8 @@ Palkkasoturit
 - Wolfhart + porukka (nyt herännyt Edwarf myös) lähtivät pinkomaan Al-Siirhajaria kohti
 - Steelo seppä Trisiitille, ei voinut auttaa henkiin herättämisen kanssa
 - Edwarf lähti nopeasti temppeliin hakemaan pappia
-- Löysi Atum-Ran papin, joka pyysi koko poppoon käännytystä tai 1000 drakhmaa
-	- Edwarf valitsi 1000 drakhmaa
+- Löysi Atum-Ran papin, joka pyysi koko poppoon käännytystä tai 1000 drakmaa
+	- Edwarf valitsi 1000 drakmaa
 	- Pappi ja Edwarf vannoivat verivalan
 - Pappi Steelon luokse, sapeli rintaan
 	- Steelo heräsi ihmismuodossa hämärältä aavikolta
@@ -260,7 +260,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
