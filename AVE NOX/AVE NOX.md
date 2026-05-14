@@ -16,7 +16,7 @@ Tervetuloa Aavemaille. Kuvankaunis, vehreä, kumpuileva ja raunioiden täplittä
  
  Maanalaiset rauniot eivät ole jääneet ulkopuolisten korvien ulottumattomiin. Paikalle on sännännyt aarteenetsijöitä ja seikkailijoita etsimään tuota halkeamaa. Al Siirhajarin asukkaat yrittävät pitää sen visusti piilossa. Kuitenkin tutkimusmatkailijoiden määrän ja ulkopuolisten tuoman kaaoksen lisääntyessä Al Siirhajarin asukkaat ovat päättäneet sallia pääsyn muutamalle valikoidulle henkilölle.
 
-![[avenox.png]]
+<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/avenox.png?raw=true" width="200">
 
 Lähdette aamun sarastaessa. Edessänne avautuva aavikko sinertää vielä hetkisen. Aurinko nousee lämmittäen selkiänne. Yön viileys väistyy. Olette jo hyvää matkaa kulkeneet aavikolla, ja Al Siirhajar on jäänyt taaksenne. 
 
