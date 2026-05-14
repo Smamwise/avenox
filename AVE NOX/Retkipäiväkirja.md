@@ -28,7 +28,7 @@ IRL pvm. 13.5. Kolmas ja neljäs päivä aavemailla
 	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan. Jatkossa ottavat kyllä osansa.
 	- Murdon ja Wolfhartin loyalty test
 	- Murdo ja Wolfhartin yöpyminen ja ruoka pitää myös kustantaa, sekä tarvittavat varusteet
-- Aikooko Steelo, Verso tai Edwarf elämöidä? [XP - Carousing](/avenox/AVE%20NOX/XP%20-%20Carousing.html)
+- Aikooko Steelo, Verso tai Edwarf elämöidä? [[XP - Carousing]]
 
 Pelaajat ja hahmot
 - Jo - Steelo
@@ -44,7 +44,7 @@ Palkkasoturit
 - Käytiin alkovit läpi, löydettiin muutamia rahoja
 - Kuultiin pimeydestä puhetta, hissillä oli tyypejä valon kanssa
 - Vaihdettiin sanailuja hissityyppien kanssa
-- Hissillä oli aurinkokuoriaiset, kolmen tyypin seikkailijaeen seurue
+- Hissillä oli aurinkokuoriaiset, kolmen tyypin seikkailijaseurue
 - Päätettiin seikkailla yhdessä
 - Kurkattiin karttapatsas, aurinkomekanismi
 - Mentiin katsomaan aurinkokuninkaan patsasta
@@ -260,7 +260,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa

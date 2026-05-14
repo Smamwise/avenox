@@ -4,11 +4,46 @@ tags:
 ---
 # Palkkasoturit ja -seikkailijat
 
-Teidän tällä hetkellä palkoilliset:
+## Teidän tällä hetkellä palkoilliset:
 
-## Murdo
+### Wolfhart kolmas
 
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/Murdo.png?raw=true" width="200">
+![[Wolfhart.png|200]]
+
+Palkkaus 60 drakhmaa + 0.5 osuutta\
+Loyalty 8
+
+```
+Level 2 Fighter
+XP: 2470 / 4000
+GP: 170 gp
+Armour Class 4 [16] (platemail)
+Hit Points 9
+Attacks 1 × two handed sword 1d10
+THAC0 19 [0]
+Movement Rate 90' (30')
+Saves D12 W13 P14 B15 S16
+Alignment Neutral
+STR 15 (+1) INT 10 WIS 14 (+1) DEX 9 CON 9 CHA 6 (-1)
+Combat talent: 
+  Cleave: When in melee with multiple foes, 
+  if the fighter strikes a killing blow, 
+  they may immediately make another attack against a second foe. 
+  The second attack roll is penalised at –2.
+  
+Equipment: (qty / encumbrance)
+Waterskin 2 / 2
+Torch 7 / 3
+Tulukset 1 / 1
+Levyhaarniska / 2
+Kahdenkädenmiekka / 2
+```
+
+## Aiemmat palkkasoturit
+
+### Murdo
+
+![[Murdo.png|200]]
 
 Palkkaus 30 drakhmaa + 1 osuutta\
 Loyalty 8
@@ -25,30 +60,4 @@ Alignment Chaotic
 STR 10 INT 8 WIS 13
 DEX 16 CON 9 CHA 15
 Items 4 knives
-```
-
-## Wolfhart kolmas
-
-<img src="https://github.com/Smamwise/avenox/blob/main/AVE%20NOX/pics/Wolfhart.png?raw=true" width="200">
-
-Palkkaus 60 drakhmaa + 0.5 osuutta\
-Loyalty 8
-
-```
-Level 2 Fighter
-Armour Class 4 [16] (platemail)
-Hit Points 9
-Attacks 1 × two handed sword 1d10
-THAC0 19 [0]
-Movement Rate 60' (20')
-Saves D12 W13 P14 B15 S16
-Alignment Neutral
-STR 15 (+1) INT 10 WIS 14 (+1)
-DEX 9 CON 9 CHA 6
-Items None
-Combat talent: 
-  Cleave: When in melee with multiple foes, 
-  if the fighter strikes a killing blow, 
-  they may immediately make another attack against a second foe. 
-  The second attack roll is penalised at –2.
 ```
