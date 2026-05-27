@@ -6,16 +6,65 @@ tags:
 
 ## Kuudes retkipäiväkirjan merkintä
 
-IRL pvm. 27.5. Neljäs ja viides päivä aavemailla
+IRL pvm. 27.5. Viides päivä aavemailla
 
 ### DM muistiinpanot
-- Nuija ja D'Arthr: feats expa unohtui, 80
-- Kaksi tavoitetta tälle pelikerralle, molemmille omat expat
+- D'Arthr: feats expa unohtui, 80
+- ~~Kaksi tavoitetta tälle pelikerralle, molemmille omat expat~~
 
 Pelaajat ja hahmot
+- Tu - State of D'Arthr
+- Ti - Veli Renard
 
 Palkkasoturit
 - Wolfhart kolmas
+
+### Tässä jaksossa
+- Aloitetaan Solisin ensimmäisestä kerroksesta
+- Suunnataan hissille ja laskeudutaan toiseen kerrokseen
+- Jutellaan Urman kanssa, kysellään kuulumiset, lihanpaloja vastaan lupautui vastaamaan kysymyksiin
+- Teurastamon takana on teurasjätehuone, mennään sinne
+- PÄÄLLE HYÖKKÄÄ JÄTTIHÄMIKSIÄ!
+- Voitetaan ne, D'Arthr jatkaa teurashuoneesta seuraavaan huoneeseen
+- Jonkinlainen suuri navetta, raapimis ääniä, ehkä joku mörkö
+- Toinen pohjoiseen vievä oviaukko, tuoksuu metaanilta ja rikiltä
+- Jokin liikkuu pimeydessä takanamme
+- Kyrsijän valkoinen aurinkonaamari vilahtaa seinäntaakse, viereiseen huoneeseen jossa on myllyjä
+- D'Arthr käy kurkkaamassa, melkein joutuu sisään vedetyksi ja telotuksi
+- Ottaa askelia taaksepäin ja ampuu raketin huoneeseen, se räjähtää
+- Kyrsijät kuolivat
+- Myllyhuoneessa aave ja luuranko
+- Pieni välietappi kalastushuoneessa, haetaan pikkunahkiaisia Urmalle jotta se vastaa kysymyksiin
+- Veli Renard kaivelee romukasaa 
+- D'Arthr ja Wolfhart lähtevät lännessä avautuvaa sienitunnelia pitkin kulkemaan
+- Wolfhart ei voi hyvin
+- Näkevät ja löytävät erilaisia sieni-luu-liha-olentoja
+- muutaman tunnin harhailun jälkeen pääsevät takaisin lähtöpaikkaansa
+- Veli Renard on jo lähtenyt takaisin Al-Siirhajariin
+- D'Arthr ja houreinen ja kompuroiva Wolfhart lähtevät myös
+- D'Arthr opastaa Wolfharttia kiipeämään ensimmäisenä hissikuilua ylöspäin köydellä
+- Wolfhart kiipeää, mutta ote lipsuu ja päästää irti
+- Wolfhart putoaa pimeyteen
+- D'Arthr palaa yksin Al-Siirhajariin ja löytää ystävänsä
+
+### XP
+
+- Treasure: 120
+- Monsters: 300 + 800+ 100
+- Feats: 800
+- Tavoite: -
+- XP per PC:  1060
+
+Per feat XP: 200
+
+| Feat        | Description                                                              |
+| ----------- | ------------------------------------------------------------------------ |
+| Exploration | Navetta, myllyt ja aave, "ekosysteemi", sienitunneli, tikapuut alaspäin, |
+| Lore        | Aurinkoavain, kesäläinen,                                                |
+| Puzzle      |                                                                          |
+| Hazards     | Sienipaikka                                                              |
+| Skills      | Jääsäde, räjähde, kalaverkko                                             |
+
 
 ## Viides retkipäiväkirjan merkintä
 
@@ -28,7 +77,7 @@ IRL pvm. 13.5. Kolmas ja neljäs päivä aavemailla
 	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan. Jatkossa ottavat kyllä osansa.
 	- Murdon ja Wolfhartin loyalty test
 	- Murdo ja Wolfhartin yöpyminen ja ruoka pitää myös kustantaa, sekä tarvittavat varusteet
-- Aikooko Steelo, Verso tai Edwarf elämöidä? [XP - Carousing](/avenox/AVE%20NOX/XP%20-%20Carousing.html)
+- Aikooko Steelo, Verso tai Edwarf elämöidä? [[XP - Carousing]]
 
 Pelaajat ja hahmot
 - Jo - Steelo
@@ -260,7 +309,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa

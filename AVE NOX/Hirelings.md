@@ -34,4 +34,4 @@ To make a loyalty check, the referee rolls 2d6 and, if the result is lower than 
 ## XP
 
 Retainers gain XP and can level up the same way as player characters.
-SEE Additional rules#XP
+SEE [[Additional rules#XP]]
