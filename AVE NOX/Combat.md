@@ -61,4 +61,4 @@ Character may opt to act purely defensively in melee, forfeiting their attack th
 
 ### Firing into melee
 
-Firing a missile weapon into a melee with 2 or more combatants is risky. There is a 3-in-6 chance that the missile hits a friendly combatant. DM rolls this check in secret before an attack roll is made. Dexterity modifier affects the roll, minumum of 1-in-6 and maximum of 5-in-6. Roll of 1 always hits a friendly combatant.
+Firing a missile weapon into a melee with 2 or more combatants is risky. There is a 3-in-6 chance that the missile hits a friendly combatant. DM rolls this check in secret before an attack roll is made. Dexterity modifier affects the roll inversely (positive modifier lowers the probability, negative modifier increases ) , minimum of 1-in-6 and maximum of 5-in-6. An attack roll of 1 always hits a friendly combatant.
