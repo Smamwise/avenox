@@ -4,12 +4,67 @@ tags:
 ---
 # Retkipäiväkirja
 
+## Seitsemäs retkipäiväkirjan merkintä
+
+IRL pvm. 10.6. Kuudes päivä aavemailla
+
+### DM muistiinpanot
+- Nuija: feats expa unohtui, 80
+
+Pelaajat ja hahmot
+- Iv - ~~Verso~~ Jund
+- Tu - Edwarf
+- JP - ~~One~~ Beta
+
+### Tässä jaksossa
+- Länsester idässä oleva valtio, torilla olevien sotilaiden porukka
+- Verso ja Edwarf tapasivat uuden soturin joka liittyi heidän joukkoonsa
+- Lyhyen ostostelun ja varusteiden huollon jälkeen lähtivät kohti Solista
+- Heitä kuitenkin seurasi kaksi veljestä
+- Halkeamalla olleiden vartioiden kanssa keskustellessaan selvisi, että aurinkokuoriaiset olivat esiintyneet retkikunnan jäseninä päästäkseen alas
+- Alas kiipeämisen jälkeen he kohtasivat verenhimoisia myyrärottakoiria
+- Hurja taistelu! One ja Verso kuolivat molemmat!
+- Edwarf pakeni ja törmäsi ylhäällä veljeksiin Jund ja Beta
+- Edwarf, parhaasta harkinnastaan huolimatta, otti veljekset matkaan ja he lähtivät alas
+- Saivat eloon jääneet koiraotukset hengiltä
+- Hissiin jätetty köysi ole irroitettu, uusi tilalle
+- Edwarf alas katsomaan onko kultisteja väijymässä, olihan siellä
+- Edwarf ja Jund yrittivät jonkinlaista öljytemppua, eivät onnistuneet
+- Laskeutuivat ja kultisti yritti potkaista Edwarfin alas
+- Kultisti hengiltä, kultistin kamat Jundin päälle ja sneakkaamaan
+- Jund ymmärsi kultistien puhetta naamiokasvoillaan, kysyivät tunkeilijoiden tilanteesta ja heidän ruumiistaan
+- Huomasivat kuitenkin eloonjääneet Edwarfin ja Betan!
+- Taistelu! Beta kaatui! Kultistit hengiltä!
+- Pienen hengähdys tauon jälkeen Beta saatiin herätettyä
+- Kaikille kultistikamat päälle ja eteenpäin
+- Metallirojukasassa oli outoja kuoriaisia jotka hyökkäsivät päälle
+- Urmalle juttelemaan, sankarit hakivat Verson ruumiin ja rottakoiran Urmalle
+- Urmalta saivat jonkinlaisen taikasormuksen ja vinkit kuoriaisten ohi pääsemiseksi ja että sienien itiöitä ei kannata hengittää
+- Sankarit jäivät odottamaan, että kuoriaiset syövät itsensä kylläisiksi ennen kuin etenevät
+
+### XP
+
+- Treasure: 
+- Monsters: 720+360
+- Feats: 300
+- XP per PC: 460  
+
+Per feat XP: 
+
+| Feat        | Description |
+| ----------- | ----------- |
+| Exploration |             |
+| Lore        |             |
+| Puzzle      |             |
+| Hazards     |             |
+| Skills      | maski       |
+
 ## Kuudes retkipäiväkirjan merkintä
 
 IRL pvm. 27.5. Viides päivä aavemailla
 
 ### DM muistiinpanot
-- D'Arthr: feats expa unohtui, 80
+- Nuija: feats expa unohtui, 80
 - ~~Kaksi tavoitetta tälle pelikerralle, molemmille omat expat~~
 
 Pelaajat ja hahmot
@@ -57,13 +112,13 @@ Palkkasoturit
 
 Per feat XP: 200
 
-| Feat        | Description                                                              |
-| ----------- | ------------------------------------------------------------------------ |
-| Exploration | Navetta, myllyt ja aave, "ekosysteemi", sienitunneli, tikapuut alaspäin, |
-| Lore        | Aurinkoavain, kesäläinen,                                                |
-| Puzzle      |                                                                          |
-| Hazards     | Sienipaikka                                                              |
-| Skills      | Jääsäde, räjähde, kalaverkko                                             |
+| Feat        | Description                                                             |
+| ----------- | ----------------------------------------------------------------------- |
+| Exploration | Navetta, myllyt ja aave, "ekosysteemi", sienitunneli, tikapuut alaspäin |
+| Lore        | Aurinkoavain, kesäläinen                                                |
+| Puzzle      |                                                                         |
+| Hazards     | Sienipaikka                                                             |
+| Skills      | Jääsäde, räjähde, kalaverkko                                            |
 
 
 ## Viides retkipäiväkirjan merkintä
@@ -77,7 +132,7 @@ IRL pvm. 13.5. Kolmas ja neljäs päivä aavemailla
 	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan. Jatkossa ottavat kyllä osansa.
 	- Murdon ja Wolfhartin loyalty test
 	- Murdo ja Wolfhartin yöpyminen ja ruoka pitää myös kustantaa, sekä tarvittavat varusteet
-- Aikooko Steelo, Verso tai Edwarf elämöidä? [XP - Carousing](/avenox/AVE%20NOX/XP%20-%20Carousing.html)
+- Aikooko Steelo, Verso tai Edwarf elämöidä? [[XP - Carousing]]
 
 Pelaajat ja hahmot
 - Jo - Steelo
@@ -309,7 +364,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
