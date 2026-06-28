@@ -88,9 +88,6 @@ Pelaajat ja hahmot
 
 IRL pvm. 10.6. Kuudes päivä aavemailla
 
-### DM muistiinpanot
-- Nuija: feats expa unohtui, 80
-
 Pelaajat ja hahmot
 - Iv - ~~Verso~~ Jund
 - Tu - Edwarf
@@ -139,10 +136,6 @@ Pelaajat ja hahmot
 ## Kuudes retkipäiväkirjan merkintä
 
 IRL pvm. 27.5. Viides päivä aavemailla
-
-### DM muistiinpanot
-- Nuija: feats expa unohtui, 80
-- ~~Kaksi tavoitetta tälle pelikerralle, molemmille omat expat~~
 
 Pelaajat ja hahmot
 - Tu - State of D'Arthr
@@ -197,15 +190,6 @@ Palkkasoturit
 ## Viides retkipäiväkirjan merkintä
 
 IRL pvm. 13.5. Kolmas ja neljäs päivä aavemailla
-
-### DM muistiinpanot
-
-- ~~Nuija ja D'Arthr: feats expa unohtui, 80~~
-- ==XP ja aarteet tulee tietenkin jakaa myös palkkasoturien kanssa==
-	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan. Jatkossa ottavat kyllä osansa.
-	- Murdon ja Wolfhartin loyalty test
-	- Murdo ja Wolfhartin yöpyminen ja ruoka pitää myös kustantaa, sekä tarvittavat varusteet
-- Aikooko Steelo, Verso tai Edwarf elämöidä? [XP - Carousing](/avenox/AVE%20NOX/XP%20-%20Carousing.html)
 
 Pelaajat ja hahmot
 - Jo - Steelo
@@ -272,10 +256,6 @@ Palkkasoturit
 ## Neljäs retkipäiväkirjan merkintä
 
 IRL pvm. 29.4.2026. Toinen päivä Aavemailla.
-
-### DM muistiinpanot
-
-- ~~Jo, Ju, Iv ja Tu2 Feats expa unohtui: 320 / 4 = 80 per pelaaja~~ annettu Steelolle ja Versolle.
 
 Pelaajat ja hahmot
 - Jo - Steelo
@@ -347,10 +327,6 @@ Palkkasoturit
 - Murdo
 - Wolfhart kolmas
 
-### DM muistiinpanot
-
-- Lasketaan kaikki XP ensin yhteen ja sitten jaetaan ja pyöristetään ylempänä olevaan 10
-
 ### Tässä jaksossa
 
 - Total Party XP: 8100 
@@ -403,13 +379,6 @@ Players and PC:s
 - Ti - Veli Renard, errant friar
 - Iv - Verso, magic user
 
-### DM muistiinpanot
-
-- Viime kerralla jaoin extra paljon expaa, saatte pitää ne nyt, mutta mainitsenpa vain.
-- Tavoite tälle kerralle ja jos se saavutetaan niin XP määrä (joka jaetaan kolmelle)
-	- Laskeudutaan seuraavalle tasolle, **ei saavutettu**
-- Verso, kysele ihmeessä, upataan sun tietämystä
-
 ### Tässä jaksossa
 
 - edellisen pelikerran kertaus
@@ -428,7 +397,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
