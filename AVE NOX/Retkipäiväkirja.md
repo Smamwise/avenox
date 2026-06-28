@@ -4,6 +4,86 @@ tags:
 ---
 # Retkipäiväkirja
 
+### Muistutukset
+- Nuija: feats expa unohtui, 80
+
+## Kahdeksas retkipäiväkirjan merkintä
+
+IRL pvm 8.7. Seitsemäs päivä aavemailla.
+
+Pelaajat ja hahmot
+- JP - Beta
+- Tu - D'Arthr
+- Ti - ~~Veli Renard~~
+- Jo - ~~Steelo, Vilho~~
+- Iv - Jund
+- Tu - Edwarf
+
+### Tässä jaksossa
+
+
+### XP
+
+- Treasure: 
+- Monsters: 
+- Feats: 
+
+| Feat        | Description |
+| ----------- | ----------- |
+| Exploration |             |
+| Lore        |             |
+| Puzzle      |             |
+| Hazards     |             |
+| Skills      |             |
+
+
+## Kahdeksas retkipäiväkirjan merkintä
+
+IRL pvm. 24.6. Kuudes päivä aavemailla
+
+Pelaajat ja hahmot
+- JP - Beta
+- Tu - D'Arthr
+- Ti - ~~Veli Renard~~
+- Jo - ~~Steelo, Vilho~~
+
+### Tässä jaksossa
+- Sankarit tapasivat toisessa kerroksessa, päättivät laskeutua kolmanteen
+- Kolmannessa kerroksessa heitä odotti iso hiljainen huone
+	- huoneessa oli amphiteatteri, toimimaton suihkulähde, aurinkokuninkaan patsas ja puutarha
+	- Käynnit kesäläisten, talvilaisten, syysläisten ja kevätläisten dormitorioihin
+- Mentiin syysläisten dormitorioon
+- sisäänkäynnille oli viritetty ansalanka joka Steelo laukaisi, jäi kivien alle ja kuoli
+- Ensimmäisessä huoneessa oli jonkinlainen luista tehty monumentti ja sen edessä eksynyt seikkailija Vilho
+- Seinillä graffitteja murhaavista ja syövistä hirviöistä
+- Käytävät dormitorioihin, useita kymmeniä huoneita, löytyi myös outo jätehuone jossa paljon kuolleiden osia ja ötököitä
+- Luutemppelin perältä löytyi jonkinlainen wc kompleksi
+- Siellä oli myös aave joka tuijotti heitä
+- Beta tunki kätensä siellä olevaan veriseen paskaan ja löysi luurangon
+- Nosti veristä paskaa valuvan luurangon käsiinsä, mutta ei halunnutkaan viedä sitä pidemmälle ja nakkasi takaisin paskaan
+- Aave suuttui ja osoitti Betaa sormella, kiljui toismaailmallisella äänellä
+- Jostain pimeydestä alkoi kuulua eläinten juoksuaskelia
+- Neljä jonia ryntäsi huoneeseen ja Betan + muiden sankarien kimppuun
+- Veli Renard kutsui jumalaansa ja loihti ympärilleen kehän jonka sisällä ei pystynyt taistella
+- Beta oli kuitenkin liian hidas ja jonit potkaisivat hänet tainnoksiin
+- Melkoinen taistelu, Vilho tippui alas hissikuilusta, Veli Renard raadeltiin hengiltä ja revittiin pimeyteen
+- D'Arthr yritti epätoivoisesti taistella joneja vastaan, siinä kuitenkaan onnistumatta
+- D'Arthr paransi tainnuksissa olevan Betan ja he yhteistuumin lähtivät pois Soliksesta
+
+### XP
+
+- Treasure: 175
+- Monsters: 
+- Feats: 2400
+
+| Feat        | Description                                   |
+| ----------- | --------------------------------------------- |
+| Exploration | kolmas kerros                                 |
+| Lore        | teatteri, jakautuminen kesä/talvi/kevät/syksy |
+| Puzzle      |                                               |
+| Hazards     |                                               |
+| Skills      |                                               |
+
 ## Seitsemäs retkipäiväkirjan merkintä
 
 IRL pvm. 10.6. Kuudes päivä aavemailla
@@ -47,9 +127,6 @@ Pelaajat ja hahmot
 - Treasure: 
 - Monsters: 720+360
 - Feats: 300
-- XP per PC: 460  
-
-Per feat XP: 
 
 | Feat        | Description |
 | ----------- | ----------- |
@@ -107,10 +184,6 @@ Palkkasoturit
 - Treasure: 120
 - Monsters: 300 + 800+ 100
 - Feats: 800
-- Tavoite: -
-- XP per PC:  1060
-
-Per feat XP: 200
 
 | Feat        | Description                                                             |
 | ----------- | ----------------------------------------------------------------------- |
@@ -132,7 +205,7 @@ IRL pvm. 13.5. Kolmas ja neljäs päivä aavemailla
 	- Voitte antaa vapaaehtoisen määrän omaa expaa ja rahaa palkkasotureille, niin hekin voivat sitten level upata aikanaan. Jatkossa ottavat kyllä osansa.
 	- Murdon ja Wolfhartin loyalty test
 	- Murdo ja Wolfhartin yöpyminen ja ruoka pitää myös kustantaa, sekä tarvittavat varusteet
-- Aikooko Steelo, Verso tai Edwarf elämöidä? [XP - Carousing](/avenox/AVE%20NOX/XP%20-%20Carousing.html)
+- Aikooko Steelo, Verso tai Edwarf elämöidä? [[XP - Carousing]]
 
 Pelaajat ja hahmot
 - Jo - Steelo
@@ -187,10 +260,6 @@ Palkkasoturit
 - Treasure: 421
 - Monsters: 900 
 - Feats: 200
-- Tavoite: -
-- XP per PC: 170+300+100
-
-Per feat XP: 200
 
 | Feat        | Description         |
 | ----------- | ------------------- |
@@ -254,9 +323,6 @@ Palkkasoturit
 - Monsters: 300 
 - Feats: 600
 - Tavoite: Urmalle lihaa, 600 xp
-- XP per PC: 670  
-
-Per feat XP: 300
 
 | Feat        | Description                     |
 | ----------- | ------------------------------- |
@@ -313,7 +379,6 @@ Palkkasoturit
 - Monsters: 1 vurmole, 150
 - Feats: 324
 - Tavoite: 800
-- XP per PC: 320 xp 
 
 | Party TXP | Minor  | Major  | Extraordinary | Campaing |
 | --------- | ------ | ------ | ------------- | -------- |
@@ -331,8 +396,7 @@ Palkkasoturit
 
 ## Toinen retkipäiväkirjan merkintä
 
-IRL pvm. 15.4.2026
-Ensimmäinen päivä Aavemailla
+IRL pvm. 15.4.2026. Ensimmäinen päivä Aavemailla
 
 Players and PC:s
 - Jo - Steelo, robotti
@@ -364,7 +428,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
@@ -374,7 +438,6 @@ Players and PC:s
 - Treasure: 250
 - Monsters: 400
 - Feats: 300
-- XP per PC: 320
 
 | Party TXP | Minor  | Major  | Extraordinary | Campaing |
 | --------- | ------ | ------ | ------------- | -------- |
@@ -398,8 +461,7 @@ Players and PC:s
 
 ## Ensimmäinen retkipäiväkirjan merkintä
 
-IRL pvm. 1.4.2026
-Ensimmäinen päivä Aavemailla
+IRL pvm. 1.4.2026. Ensimmäinen päivä Aavemailla
 
 Players and PC:s
 - Tu1 - ~~Blaine, cleric~~ Edwarf, kääpiö
@@ -409,7 +471,7 @@ Players and PC:s
 - Ti - Veli Renard, errant friar
 - I - Verso magic user
 
-### What happened
+### Tässä jaksossa
 - Maan alle kiipeäminen
 - Muraalin ihmettelyä
 - Renard koputteli putkia
@@ -429,7 +491,6 @@ Players and PC:s
 - Treasure: 0
 - Monsters: 5 vurmolea 750xp
 - Feats: 1000
-- XP per PC: 1750 / 6 = 300
 
 ### Feats
 
