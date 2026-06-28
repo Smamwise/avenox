@@ -8,6 +8,7 @@
 <!-- FILE-INDEX-START -->
 ### Journal
 - 📄 [AVE NOX.md](AVE NOX/AVE NOX.md)
+- 📄 [Al-Siirhajar.md](AVE NOX/Al-Siirhajar.md)
 - 📄 [Palkkasoturit ja -seikkailijat.md](AVE NOX/Palkkasoturit ja -seikkailijat.md)
 - 📄 [Pelaajahahmot.md](AVE NOX/Pelaajahahmot.md)
 - 📄 [Retkipäiväkirja.md](AVE NOX/Retkipäiväkirja.md)
