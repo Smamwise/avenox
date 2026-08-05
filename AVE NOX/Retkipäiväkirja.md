@@ -7,34 +7,62 @@ tags:
 ### Muistutukset
 - Nuija: feats expa unohtui, 80
 
-## Kahdeksas retkipäiväkirjan merkintä
+## Yhdeksäs retkipäiväkirjan merkintä
 
-IRL pvm 8.7. Seitsemäs päivä aavemailla.
+IRL pvm 5.8. Kuudes ja seitsemäs päivä aavemailla.
 
 Pelaajat ja hahmot
 - JP - Beta
-- Tu - D'Arthr
-- Ti - ~~Veli Renard~~
-- Jo - ~~Steelo, Vilho~~
+- Ti - Veli Lenard
+	- Hireling Veli Genard - Cleric
 - Iv - Jund
-- Tu - Edwarf
 
 ### Tässä jaksossa
-
+- Jatketaan suoraan siitä, että pakenivat Soliksesta, kävelevät aavikolla; haavottuneina, lyötyinä ja epätoivoisina. 
+- Aurinko on ohittanut lakipisteensä ja laskee nopeasti, pian on jo hämärää ja sen jälkeen pimeää
+- Nuija tulee teitä vastaan, kutsuu kylän vanhimpien luokse
+- Kylässä käy kuhina, valoja, soihtuja ja lamppuja joka puolella, ainoan oikean jumalan lähetyssaarnaajat ovat tulleet kylään ja pistäneet show pystyyn
+	- torilla erilaisia esityksiä ja ruokatelttoja sekä rihkamamyyjiä
+	- joku huutaa taskuvarkaista, jossain käydään käsikähmää ja tapellaan, humalaisia ihmisiä nipistelee toisia humalaisia ihmisiä pyllyistä ja nauretaan
+- Kylänvanhimmat, Eziach, Vimos ja Cozana
+	- missä ovat alkuperäiset henkilöt/seikkailijat?
+	- onko tämä joku theseuksen seikkalijaseurue?
+	- mitä olette saaneet selville, mitä olette löytäneet, mistä on kyse?
+	- missä ovat löytämänne artefaktit?
+	- Tässä kaksi soturia teidän turvaksenne (uudet hahmot), he raportoivat meille
+	- Koittakaa olla kuolematta, tai eväämme teiltä pääsyn ja annamme Soliksen jonkun luotettavamman seikkailijaseurueen selvitettäväksi
+- Kylänvanhimpien luona oli ainoan oikean jumalan seuraajat Veli Renard ja hänen seuralaisensa Veli Genard, heidät uskottiin Betan ja Jundin (plus muiden) suojelijoiksi
+- Seuraavaksi mentiin paheiden pesään pelaamaan uhkapelejä, Jund aiheutti melkein välikohtauksen toiminnallaan kun pelasi yllättävän paljon arvovaltaa nauttivan teinin kanssa noppia (Jund voitti suuren määrän drakmoja, vaikka teinillä olikin taikanopat)
+- Veli Lenard uhkaili tavernan pitäjää "kukaan ei sitten aiheuta meille mitään harmeja kun lähdemme täältä, tai minä aiheutan harmeja sinulle ja nyt"
+- Pienten ilta hulinoiden jälkeen menivät yöpuulle tähtitelttaan, heräsivät elossa ja kaikki tavaratkin olivat tallella
+- Lähtö aavikolle ja Solikseen
+- Suoraan kolmanteen kerrokseen, Veli Renardin kuivuneet verijäljet johtivat itäiseen dormitorioon ja luutemppeliin
+- Ei mennä sinne, se on hassu paikka
+- Amfiteatterista kaikki mikä lähtee irti
+- Pohjoiseen, Jund laittoi kesänaamarin päähän
+- Astuivat sisään kesäläisten dormitorioon ja olohuoneeseen, kuulivat puhetta ja askelten lähestymistä
+- Jund ja kesäläiset sanailivat, kesäläiset piilosta, ilkeää naurua ja pelottavia kommentteja
+- Menivät pois
+- Kurkattiin kasvihuone, Jund poimi sienen ja se pölläytti jotain Jundin kasvoille, nenään ja keuhkoihin
+- Kerros ylöspäin, tarkoituksena palata Al-Siirhajariin keräämään joukot ennen takaisin tulemista
+- Köysi oli katkottu, ei ylöspääsyä toisesta kerroksesta ensimmäiseen
+- Joku vilahti karsinassa
+- Perään! Siellä oli kyrsijä, taistelu, kyrsijä hengiltä, Jund myös melkein tappoi veljensa Betan ampumalla tätä nuolella selkään
+- Hiljaisuus laskeutui epätoivon säestämänä, miten pääsemme ulos täältä?
 
 ### XP
 
 - Treasure: 
-- Monsters: 
-- Feats: 
+- Monsters: 240
+- Feats: 900
 
 | Feat        | Description |
 | ----------- | ----------- |
 | Exploration |             |
-| Lore        |             |
+| Lore        | Taikanopat  |
 | Puzzle      |             |
-| Hazards     |             |
-| Skills      |             |
+| Hazards     | Sieni       |
+| Skills      | Uhkapeli    |
 
 
 ## Kahdeksas retkipäiväkirjan merkintä
@@ -58,6 +86,7 @@ Pelaajat ja hahmot
 - Seinillä graffitteja murhaavista ja syövistä hirviöistä
 - Käytävät dormitorioihin, useita kymmeniä huoneita, löytyi myös outo jätehuone jossa paljon kuolleiden osia ja ötököitä
 - Luutemppelin perältä löytyi jonkinlainen wc kompleksi
+- Beta löysi medaljongin jonka sisällä Jundin kuva
 - Siellä oli myös aave joka tuijotti heitä
 - Beta tunki kätensä siellä olevaan veriseen paskaan ja löysi luurangon
 - Nosti veristä paskaa valuvan luurangon käsiinsä, mutta ei halunnutkaan viedä sitä pidemmälle ja nakkasi takaisin paskaan
@@ -73,7 +102,7 @@ Pelaajat ja hahmot
 ### XP
 
 - Treasure: 175
-- Monsters: 
+- Monsters:
 - Feats: 2400
 
 | Feat        | Description                                   |
@@ -397,7 +426,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa

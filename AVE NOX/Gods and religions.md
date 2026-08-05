@@ -53,9 +53,9 @@ Sotilaiden ja orjien jumala. Veritodistajien ja sanansaattajien suojelija. Häne
 `Idässä syntyi lapsi tähden alla. Ilmoittautui vapahtajaksi, suojaksi ja kilveksi ikuista pimeää yötä vastaan. Kaikki jotka hänestä syövät ja hänen vertansa juovat saavat Jumalan valon itseensä.`
 Uusin jumala, löytää vielä paikkaansa maailmassa. Ainoan oikean Jumalan seuraajia kutsutaan aposteleiksi. Heitä usein pidetään barbaareina ja kannibaaleina. Armo ja hyväntahtoisuus muita kohtaan katsotaan suurimmiksi hyveiksi.
 
-**Kuvaus:** Ihminen.
-**Alignment:** Lawful.
-**Pyhä symboli:** Kynttilä ja karitsa.
+**Kuvaus:** Ihminen
+**Alignment:** Lawful
+**Pyhä symboli:** Kynttilä ja karitsa
 **Tunnusasu:** Seuraajat tunnistaa siitä, että heillä on aina mukanaan vaikka ja kuinka paljon erilaisia valonlähteitä, on kynttilöitä ja soihtuja ja lyhtyjä ja erilaisia taikajuttuja. Ei erikseen arvoasteikkoa kleerien välillä.
 **Rukous:** Loitsuja saadakseen kleerien on sytytettävä lähetyskynttilöitä.
 
