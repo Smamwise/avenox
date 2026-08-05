@@ -15,4 +15,4 @@ Expereience points is shared between all members of the party, including retaine
 
 The division of treasure is agreed by the party and does not influence the amount of XP each character gains. 
 
-See [[XP - Carousing]] and [[XP - Feats of exploration]]
+See [XP - Carousing](/avenox/AVE%20NOX/XP%20-%20Carousing.html) and [XP - Feats of exploration](/avenox/AVE%20NOX/XP%20-%20Feats%20of%20exploration.html)
