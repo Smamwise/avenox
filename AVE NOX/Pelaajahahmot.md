@@ -13,7 +13,7 @@ tags:
 **Megius**, molefolk, level 1
 
 
-[[Palkkasoturit ja -seikkailijat]]
+[Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
 ## In memoriam
 
 Blaine, Baalin kleeri
