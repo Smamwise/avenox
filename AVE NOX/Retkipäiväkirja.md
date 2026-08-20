@@ -7,6 +7,56 @@ tags:
 ### Muistutukset
 - Nuija: feats expa unohtui, 80
 
+## Kymmenes retkipäiväkirjan merkintä
+
+IRL pvm 19.8. Seitsemäs päivä aavemailla.
+
+Pelaajat ja hahmot
+- Iv - Jund
+- Jo - ~~Megius, mole~~ Hytty
+- Tu - Edwarf
+- Tu2 - Darth
+
+### Tässä jaksossa
+
+- ~~**Jo** hahmo, random tai saat luoda oman jolle joko max hp tai roll hp + 3~~
+- ~~Millä nimillä **Tu2** hahmoa nyt kutsutaan? oon kirjoittanut se 4 eri tavalla :D~~
+- Löydätte itsenne kuolleen kultistin edestä, olette keskellä suuria kasoja erilaisia koreja, säkkejä, laatikoita, monet rikki, osa ehjiä
+- Takananne on ovensuu karsinaan ja takaisin hissille, oven suun yläpuolella ja seinillä kiemurtelee putkia ympäri ämpäri
+- Pimeys ahdistaa, kuulette tovereidenne raskaan hengityksen, sekä oman sydämenne lyönnit jyskyvät rintakehässänne
+- Jostain pimeydestä kuulette veden loisketta, kuin jokin iso kala aiheuttaisi aaltoja rantatörmää vasten uidessaan meren ollessa muuten tyyni
+--- 
+- Vaihdetaan kuulumiset ja tutustutaan uusiin hahmoihin
+- Myyrähenkilö Megis oli löytänyt tiensä seurueeseen
+- Moikataan urmaa muuten vaan
+- Vesialtaasta kuuluu veden loiskintaa
+- Navettaan meno kiinnostaa, pienessä vajassa haisee kaasu ja teurasjätehuone ei innosta
+- Edwarf+megis menee vajaan tutkimaan
+- Navetassa kuuluu rapsutusta, näkyy pienet kaasuvalot
+- Jund ja Darth jää odottamaan, kuoriaiset pyrkivät päälle
+- Urma piilossa pöytänsä alla, veden loiskintaa ei kuulu
+- TODELLA ISO KALA TULEE ALLAS HUONEESTA!!??!!
+- Megis juotiin Alepassa
+- Epätoivoinen taistelu kalaa vastaan
+- Darthin taktinen vetäytyminen
+- Hytty taistelemassa omaa varjoaan vastaan
+- Darth ja Edwarf saivat level up 1 -> 2
+
+### XP
+
+- Treasure: 
+- Monsters: 
+- Feats: 800
+
+| Feat        | Description                  |
+| ----------- | ---------------------------- |
+| Exploration |                              |
+| Lore        | Kuningas Linnorm             |
+| Puzzle      |                              |
+| Hazards     |                              |
+| Skills      | Ivar vitsit, dwarfin hartiat |
+
+
 ## Yhdeksäs retkipäiväkirjan merkintä
 
 IRL pvm 5.8. Kuudes ja seitsemäs päivä aavemailla.
@@ -426,7 +476,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa

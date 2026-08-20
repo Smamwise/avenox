@@ -10,8 +10,10 @@ tags:
 **Edwarf**, dwarf, level 1
 **Beta**, fighter, level 1
 **Jund**, thief, level 1
+**Megius**, molefolk, level 1
 
-[Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+
+[[Palkkasoturit ja -seikkailijat]]
 ## In memoriam
 
 Blaine, Baalin kleeri
