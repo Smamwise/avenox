@@ -12,7 +12,7 @@ tags:
 **Hytty**
 **Veli Lenard**, paladin, level 1
 
-[Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+[[Palkkasoturit ja -seikkailijat]]
 ## In memoriam
 
 Blaine, Baalin kleeri
