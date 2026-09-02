@@ -6,6 +6,56 @@ tags:
 
 ### Muistutukset
 - Nuija: feats expa unohtui, 80
+- Länsisterin sotilailla beeffiä Jundin kanssa
+- Edwarf velkaa 800 drakmaa Amun-Ran papille
+
+## Yhdestoista retkipäiväkirjan merkintä
+
+IRL pvm 2.9. Seitsemäs päivä aavemailla.
+
+Pelaajat ja hahmot
+- Iv - Jund
+- Tu - Edwarf
+
+### Tässä jaksossa
+- Jund on kotoisin Kouvolasta (kaunista kiviarkkitehtuuria)
+- Edwarf ja Jund tutustuivat lähemmin Urmaan, teurastajakoiratyyppiin
+- Urma oli kertonut että myllyhuoneen kautta pääsee pois
+- Odottivat että iso kala menisi menojaan ja he pääsisivät käymään myllyllä
+- Myllyllä heitä odotti kaatuneet ja halkeilleet myllynkivet ja vihaisen näköinen aave
+- Edwarf hakkasi hakulla reiän maahan, siirsi haamun luut kuoppaan ja kivet päälle, lausui muutaman Veli Renardin opettaman sanan
+- Aave hymyili ja haihtui ilmaan
+- Huoneen ulkopuolelta kuului askelia, Edwarf jäi odottamaan mitä sieltä tulee
+- Myllyn katossa avautui halkeama
+- Jund heitti jonkinlaisen kahleista kyhätyn koukun ja se otti kuin ottikin kiinni
+- Kyrsijä hyökkäsi! Seikkailijat päihittivät sen
+- Kiipeilemään lähteminen
+- Vaiketaa ja välillä vähän putoamisiakin
+- Pääsy maanpäälle, aavikolle
+- Takaisin Al-Siirhajariin
+- Juttelua kylän vanhimpien kanssa, kauppiaiden kanssa
+	- "valkoisen tornin velhot voisivat tietää Jundin sormuksesta"
+- Velhoja ei löydy mistään, ovat kuulemma tulleet kaupunkiin ja sen jälkeen hävinneet
+- Edwarf maksoi Amun-Ran hyeenapapille 200 drakmaa velastaan
+- Jund elämöi, päätyi kusemaan Länsisterin sotilaiden lipulle, nyt ovat vihaisia
+- Uneksimaan tähtitelttaa, ja kahdeksannen päivän aamuna taas seikkailemaan
+
+### XP
+
+- Treasure: 
+- Monsters: 
+- Feats:
+
+1800
+
+| Feat        | Description                    |
+| ----------- | ------------------------------ |
+| Exploration | Rako ylös, toinen sisäänkäynti |
+| Lore        | Aave                           |
+| Puzzle      |                                |
+| Hazards     |                                |
+| Skills      | köysitemppu                    |
+
 
 ## Kymmenes retkipäiväkirjan merkintä
 
@@ -476,7 +526,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
