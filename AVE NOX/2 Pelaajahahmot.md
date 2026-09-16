@@ -9,10 +9,10 @@ tags:
 **Edwarf**, dwarf, level 2
 **Beta**, fighter, level 1
 **Jund**, thief, level 2
-**Hytty**
+**Hytty**, fighter, level 1
 **Veli Lenard**, paladin, level 1
 
-[Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+[[Palkkasoturit ja -seikkailijat]]
 ## In memoriam
 
 Blaine, Baalin kleeri

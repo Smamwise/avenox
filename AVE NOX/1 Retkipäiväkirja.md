@@ -9,6 +9,61 @@ tags:
 - Länsisterin sotilailla beeffiä Jundin kanssa
 - Edwarf velkaa 800 drakmaa Amun-Ran papille
 
+## Kahdestoista retkipäiväkirjan merkintä
+
+IRL pvm 15.9. Kahdeksas päivä aavemailla.
+
+Pelaajat ja hahmot
+- Iv - Jund
+- Jo - Hytty
+
+### Tässä jaksossa
+- Jund ja hytty heräsivät tähtiteltassa, aamupalan jälkeen lähtivät kohti Solista
+- Laskeutuivat Solisiin ja menivät ensin aurinkonaamamekanismin luokse
+- Jund halusi tiirikoida sen, mutta ensin totesi, että siinä saattaa olla jotain kummallista
+- Lähtivät kohti itää, patsaalle ja muurille
+- Huomasivat että kuusi möykkyä patsaan edessä olivat mätäneviä kyrsijöitä, matojen peittämiä ja haisevia
+- Jund yritti vetää patsaan selässä olevaa miekkaa pois siinä onnistumatta
+- Tutkittiin takaseinän kiviporttia ja ikkunoita
+- Hytty kiipesi seinään upotettuja metallipiikkejä pitkin ikkunalle ja huhuilli sinne (siellä kajasti valoa)
+- Kaksi jättiläistä tuli näkyviin ja puhuivat jotain, avasivat portin ja tulivat ulos 
+- Jund ja hytty piiloutuivat patsaan taakse, ja kiipesivät sen päälle
+- Jättiläiset yrittivät löytää heidät ja he vastasivat patsaan päältä
+- "Tulkaa alas" sanoivat jättiläiset
+- Jund ja Hytty tulivat alas, heidät ohjattiin porttihuoneeseen, pakotettiin polvilleen ja portti laitettiin kiinni
+- He odottivat pitkään kun toinen jättiläisistä lähti pois
+- Palasi jonkin ajan kuluttua papin ja papin palvelijoiden kanssa jotka chanttasivat rukouksia aurinkojumalalle/kuninkaalle
+- Pappi : "lupaatteko palvella aurinkojumalaa ja antaa henkenne hänen puolestaan"
+- "Kyllä" seikkailijat vastasivat
+- Pappi toi suitsukke astiansa heidän nenä eteensä ja seikkailijoiden tahto lamaantui, heidän täytyi tehdä kuten pappi kästää
+- Pappi "Menkää palvelijoiden kanssa tekemään töitä"
+- Kaksi normi kyrsijää lähti saattamaan seikkailijoita syvemmälle kompleksiin
+- näkivät paljon kummallisia asioita
+- Päätyivät lopulta Urman teurastamon luokse ja selvittivät päänsä lumouksesta
+- Taistelu kyrsijöiden kanssa
+- Sitten takaisin Al-Siirhajariin ja Busofidon luokse myymään aarteita
+- Busofiden luona oli sotilaita
+- Hytty kertoi sotilaille että tietää miten maan alle pääsee
+- Sotilaat halusivat viedä Hytyn mukanaan
+- Jund juoksi paikalle ja esti tilanteen eskaloitumisen
+- Sotilaat vittuilivat Jundille ja Hytylle, mutta muuten kaikki hyvin
+- Hytty meni kasvihuoneeseen etsimään parantajaa haavoilleen
+- Jund meni Vimosin (kylän vanhin) luokse kertomaan seikkailuistaan, Hytty liittyi myöhemmin seuraan
+
+### XP
+
+- Treasure: 325
+- Monsters: 240
+- Feats: 1200
+
+| Feat        | Description                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------------- |
+| Exploration | Kivimuurin takana eka kerros, toka kerros varasto                                                        |
+| Lore        | Papin suitsukkeella voi viedä vapaan mielen, silmä voidaan vaihtaa, auringonpimennys, Urma = Suuri koira |
+| Puzzle      |                                                                                                          |
+| Hazards     |                                                                                                          |
+| Skills      | Hiipiminen patsaan päälle                                                                                |
+
 ## Yhdestoista retkipäiväkirjan merkintä
 
 IRL pvm 2.9. Seitsemäs päivä aavemailla.
@@ -524,7 +579,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa
