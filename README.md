@@ -7,11 +7,11 @@
 
 <!-- FILE-INDEX-START -->
 ### Journal
+- 📄 [1 Retkipäiväkirja.md](AVE NOX/1 Retkipäiväkirja.md)
+- 📄 [2 Pelaajahahmot.md](AVE NOX/2 Pelaajahahmot.md)
 - 📄 [AVE NOX.md](AVE NOX/AVE NOX.md)
 - 📄 [Al-Siirhajar.md](AVE NOX/Al-Siirhajar.md)
 - 📄 [Palkkasoturit ja -seikkailijat.md](AVE NOX/Palkkasoturit ja -seikkailijat.md)
-- 📄 [Pelaajahahmot.md](AVE NOX/Pelaajahahmot.md)
-- 📄 [Retkipäiväkirja.md](AVE NOX/Retkipäiväkirja.md)
 
 ### Lore
 - 📄 [Currency.md](AVE NOX/Currency.md)
