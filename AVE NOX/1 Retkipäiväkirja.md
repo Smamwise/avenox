@@ -8,6 +8,61 @@ tags:
 - Nuija: feats expa unohtui, 80
 - Länsisterin sotilailla beeffiä Jundin kanssa
 - Edwarf velkaa 800 drakmaa Amun-Ran papille
+- Jundista palkkio? Basmalta viesti
+
+## Kolmastoista retkipäiväkirjan merkintä
+
+IRL pvm 14.10. Kahdeksas-yhdeksäs päivä aavemailla.
+
+Pelaajat ja hahmot
+- Jo - Hytty
+- Tu - Edwarf
+- JP - Beta
+### Tässä jaksossa
+- Aloitetaan Vimosin teltasta, teellä, on ilta ja pimeää, kylän valot/lyhdyt/yms ovat päällä
+- Basma = Tähtiteltan pitäjä
+- Edwarf kirjoittaa viestin Jundille "SOTILAAT ETSIVÄT SUA"
+- Levätään yksi päivä
+- Käydään ostoksilla, mm. pulu/kirjekyyhky Urmalle viemistä varten
+**Yhdeksäs päivä**
+- Mennään alas Solikseen uudesta sisäänkäynnistä joka oli löytynyt
+- Alasmeno hyvinkin hankalaa, hieman tiputaan toistemme päälle ja sattuu, pulu kuolee kun joutuu puristuksiin
+- Pulu Urmalle ja hän kertoo mielellään tietonsa avaimista, "papit kantavat niitä, asuvat kerrosta alempana"
+- Sankarit lähtevät alaspäin kapuamaan
+- 3. kerroksessa, aurinkokuningas patsaan luona oli kesäläisiä palvomassa
+- Hytty soluttautuu heidän joukkoonsa lyhtynsä kanssa, kaapu ja maski päällään
+- "eksyin eilen kun jotkut seikkailijat hyökkäsivät"
+- Hytty sanoo että hänen oli määrä mennä juttulemaan papille, yksi kesäläisistä vie hänet syvälle kesäläisten dormitorioon ja sen perälle rakennettuun temppeliin joka oli selvästi erilailla louhittu kuin muu Solis
+- Temppelin eteisessä kaksi outoa tyyppiä vartioivat ovea
+- Pappi tulee hetken päästä ovesta, perässään suitsukkeen makea haju joka huumaa Hytyn
+- Papin mukaan Hytyn tulee vartioida paikkaa tunkeilijoiden varalta
+- Hytty ja kesäläinen lähtevät matkaan, Hytty seuraa vain
+- Beta ja Edwarf näkevät hytyn ja kesäläisen tulevat hissillepäin ja nousevat kerroksen ylemmäs, piiloutuvat
+- Hytty ja saattajat ovat menossa aurinkolukko ovelle kun Beta ja Edwarf hyökkäävät
+- Beta ja Edwarf tappavat kesäläisen ennen kuin hän ehtii ovelle
+- Beta anastaa kuolleen kultistin kaavun ja naamarin
+- Huumattu Hytty huutaa kurkkusuorana "TUNKEILIJOITA"
+- Edwarf kolkkaa Hytyn
+- Äkkiä piiloon karsinaan
+- Kiviovien avautuminen, raskaita askelia ja hengitystä "MISSÄ ON TUNKEILIJA"
+- Äkkiä syvemmälle piiloon, panssarit pitävät meteliä
+- Raskaat askeleet nopeutuvat ja tulevat lähemmäksi
+- CLIFFHANGER, ISO MÖRKÖ TULOSSA
+
+### XP
+
+- Treasure: 250
+- Monsters: 240
+- Feats: 1800
+
+| Feat        | Description                                             |
+| ----------- | ------------------------------------------------------- |
+| Exploration | Matovartiat, temppeli                                   |
+| Lore        | Tähtiteltan pitäjän nimi Basma, aurinkoavaimia papeilla |
+| Puzzle      |                                                         |
+| Hazards     |                                                         |
+| Skills      | Soluttautuminen                                         |
+
 
 ## Kahdestoista retkipäiväkirjan merkintä
 
@@ -579,7 +634,7 @@ Players and PC:s
 - Takaisin Al-Siirhajariin
 - Myytiin aarteet mitä tuotiin, luuhuilu ja amuletti Busofidelle
 - Myytiin panssarit ja aseet seppä Trisiitille
-- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+- Palkattiin Tähtiteltasta Murdo (Thief) (30gp + 1 osuus) ja Wolfhart (Fighter) (60gp + 0.5 osuus) [[Palkkasoturit ja -seikkailijat]]
 - Käytiin kasvihuoneessa, Asal parantaja antoi taikanarua vastaan 3 purkkia parannusmömmöä (parantaa 1d6)
 - Uinumaan Tähtiteltan yläkertaan
 - Aamulla takaisin Solikseen palkollisten kanssa

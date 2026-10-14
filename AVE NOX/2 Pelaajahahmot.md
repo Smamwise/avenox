@@ -5,14 +5,14 @@ tags:
 # Pelaajahahmot
 
 **State of D'Arthr**, lost droid, level 1
-**Saamarin Nuija**, thief, level 1
-**Edwarf**, dwarf, level 2
+**Saamarin Nuija**, thief, level 2
+**Edwarf**, dwarf, level 3
 **Beta**, fighter, level 1
-**Jund**, thief, level 2
+**Jund**, thief, level 3
 **Hytty**, fighter, level 1
 **Veli Lenard**, paladin, level 1
 
-[Palkkasoturit ja -seikkailijat](/avenox/AVE%20NOX/Palkkasoturit%20ja%20-seikkailijat.html)
+[[Palkkasoturit ja -seikkailijat]]
 ## In memoriam
 
 Blaine, Baalin kleeri
